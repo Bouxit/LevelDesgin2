@@ -2290,3 +2290,59 @@ SkySphereBlueprint
 [2022.04.26-13.56.19:764][ 73]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.26-13.56.19:764][ 73]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernStart.TavernStart
 [2022.04.26-13.56.19:764][ 73]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernStart_BuiltData.TavernStart_BuiltData
+[2022.04.26-13.56.59:431][905]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.04.26-13.56.59:969][966]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.04.26-13.57.09:251][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.04.26-13.57.09:873][ 41]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 126 classes and 0 folders.
+[2022.04.26-13.57.10:506][ 41]LogSlate: Took 0.003600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.26-13.57.11:902][171]LogRenderer: Reallocating scene render targets to support 1340x712 Format 10 NumSamples 1 (Frame:1).
+[2022.04.26-13.57.29:167][877]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2022.04.26-13.57.30:318][ 15]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.57.30:319][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.57.52:471][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.26-13.57.56:033][ 28]Cmd: DELETE
+[2022.04.26-13.57.56:033][ 28]Cmd: ACTOR DELETE
+[2022.04.26-13.57.56:036][ 28]LogEditorActor: Deleted Actor: Brush
+[2022.04.26-13.57.56:051][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.04.26-13.57.56:059][ 28]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.04.26-13.57.57:263][169]Cmd: DELETE
+[2022.04.26-13.57.57:263][169]Cmd: ACTOR DELETE
+[2022.04.26-13.57.57:265][169]LogEditorActor: Deleted Actor: Brush
+[2022.04.26-13.57.57:276][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.26-13.57.57:280][169]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.04.26-13.58.16:300][448]LogContentBrowser: Attempting asset rename: TavernStart -> TavernBackgroundLevel
+[2022.04.26-13.58.16:342][448]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel_BuiltData796E14F2416F059DC922F49306282CF6.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.uasset'
+[2022.04.26-13.58.16:353][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.26-13.58.16:361][448]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevelA827C5A44DFDD22D17F5169F75532126.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel.umap'
+[2022.04.26-13.58.16:362][448]LogFileHelpers: Saving map 'TavernBackgroundLevel' took 0.020
+[2022.04.26-13.58.16:363][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/TavernStart" FILE="../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernStart.umap" SILENT=true
+[2022.04.26-13.58.16:363][448]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernStart9BD5C8064E7C30540BFD05B52E131C31.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernStart.umap'
+[2022.04.26-13.58.16:414][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.26-13.58.16:430][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.04.26-13.58.16:440][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.26-13.58.16:461][448]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-13.58.16:461][448]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel
+[2022.04.26-13.58.16:461][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.TavernBackgroundLevel_BuiltData
+[2022.04.26-13.58.16:461][448]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Maps/TavernStart.TavernStart
+[2022.04.26-13.58.23:780][ 87]LogSlate: Window 'New Level' being destroyed
+[2022.04.26-13.58.29:778][ 87]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.26-13.58.29:825][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.26-13.58.29:828][ 87]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevelAD0F517A434B2C37EA927DA0593AD5C0.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel.umap'
+[2022.04.26-13.58.29:833][ 87]LogFileHelpers: Saving map 'TavernForgroundLevel' took 0.049
+[2022.04.26-13.58.29:892][ 87]AssetCheck: New page: Asset Save: TavernForgroundLevel
+[2022.04.26-13.58.29:892][ 87]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel
+[2022.04.26-13.58.35:800][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.26-13.58.35:802][767]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevel406A115842AC26FB9F3151867943E83D.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel.umap'
+[2022.04.26-13.58.35:823][767]AssetCheck: New page: Asset Save: TavernForgroundLevel
+[2022.04.26-13.58.35:823][767]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel
+[2022.04.26-13.58.36:829][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.26-13.58.36:830][884]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevel9CC297D44D0DAF9995859EA9620A3717.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel.umap'
+[2022.04.26-13.58.36:838][884]AssetCheck: New page: Asset Save: TavernForgroundLevel
+[2022.04.26-13.58.36:838][884]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel
+[2022.04.26-13.58.37:911][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.26-13.58.39:018][ 10]LogSlate: Window 'Save Content' being destroyed
+[2022.04.26-13.58.39:044][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.26-13.58.39:054][ 10]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMap3091D30143880BE61994D2BC382507F0.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.04.26-13.58.39:060][ 10]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.026
+[2022.04.26-13.58.39:072][ 10]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2022.04.26-13.58.39:073][ 10]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap

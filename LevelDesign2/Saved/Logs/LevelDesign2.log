@@ -1375,3 +1375,92 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-13.06.52:495][129]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
 [2022.04.27-13.07.09:672][967]Cmd: TRANSACTION UNDO
 [2022.04.27-13.07.09:672][967]LogEditorTransaction: Undo Scale Actors
+[2022.04.27-13.12.43:308][365]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.27-13.12.43:312][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-13.12.43:312][365]PIE: New page: PIE session: SideScrollerExampleMap (27 Apr 2022, 17:12:43)
+[2022.04.27-13.12.43:312][365]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.04.27-13.12.43:321][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009457s)
+[2022.04.27-13.12.43:322][365]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.04.27-13.12.43:323][365]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2022.04.27-13.12.43:323][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011045s)
+[2022.04.27-13.12.43:345][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.04.27-13.12.43:347][365]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.27-13.12.43:347][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-13.12.43:347][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-13.12.43:347][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-13.12.43:347][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-13.12.43:348][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-13.12.43:348][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-13.12.43:348][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-13.12.43:348][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-13.12.43:348][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-13.12.43:348][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-13.12.43:348][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-13.12.43:348][365]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-13.12.43:351][365]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-13.12.43:351][365]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-13.12.43:362][365]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.04.27-13.12.43:362][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-13.12.43:362][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-13.12.43:362][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-13.12.43:363][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-13.12.43:363][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-13.12.43:363][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-13.12.43:364][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-13.12.43:364][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-13.12.43:364][365]LogInit: FAudioDevice initialized.
+[2022.04.27-13.12.43:364][365]LogAudio: Display: Audio Device (ID: 6) registered with world 'SideScrollerExampleMap'.
+[2022.04.27-13.12.43:369][365]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.27-13.12.43:392][365]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.04.27-15.12.43
+[2022.04.27-13.12.43:392][365]LogWorld: Bringing up level for play took: 0.001011
+[2022.04.27-13.12.43:392][365]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.27-13.12.43:394][365]PIE: Server logged in
+[2022.04.27-13.12.43:395][365]PIE: Play in editor total start time 0,083 seconds.
+[2022.04.27-13.12.46:843][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-13.12.46:843][773]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.04.27-13.12.46:843][773]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-13.12.46:844][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-13.12.46:853][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-13.12.46:864][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-13.12.46:881][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-13.12.46:881][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-13.12.46:882][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-13.12.46:884][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-13.12.46:887][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.27-13.12.46:909][774]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.27-13.12.46:926][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.27-13.12.48:116][914]Cmd: EDCALLBACK SURFPROPS
+[2022.04.27-13.12.51:373][301]Cmd: DELETE
+[2022.04.27-13.12.51:373][301]Cmd: ACTOR DELETE
+[2022.04.27-13.12.51:378][301]LogEditorActor: Deleted Actor: Brush
+[2022.04.27-13.12.51:394][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.04.27-13.12.51:397][301]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.04.27-13.12.52:502][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.04.27-13.12.52:525][429]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout0ACA2B0F42335D3D2A9C2E93833B3B9F.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout.umap'
+[2022.04.27-13.12.52:530][429]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout_BuiltData1592E53F40892EDA374977951C4A9047.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout_BuiltData.uasset'
+[2022.04.27-13.12.52:541][429]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-13.12.52:541][429]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.04.27-13.12.52:541][429]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBlockout_BuiltData.TavernBlockout_BuiltData
+[2022.04.27-13.12.55:145][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.27-13.12.56:479][731]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-13.12.56:518][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerCharacter5E66C22E483D5C4C175EC5B8190D99BF.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.04.27-13.12.56:535][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.27-13.12.56:545][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMap29D2333E453F9502A37991BAC70B29CA.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.04.27-13.12.56:560][731]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.042
+[2022.04.27-13.12.56:635][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMap_BuiltData36D17DE0470CF0BFEAF04AB0C2CD0DCE.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.04.27-13.12.56:658][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.04.27-13.12.56:671][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevelB2A0C910475363B625292898CE9DC9AA.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel.umap'
+[2022.04.27-13.12.56:672][731]LogFileHelpers: Saving map 'TavernBackgroundLevel' took 0.037
+[2022.04.27-13.12.56:684][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel_BuiltData5021F8C445E1C4DBA10A80911181EA86.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.uasset'
+[2022.04.27-13.12.56:702][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.27-13.12.56:706][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevelAD5EE3D94CA1F46C93786B965D6A32B4.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel.umap'
+[2022.04.27-13.12.56:707][731]LogFileHelpers: Saving map 'TavernForgroundLevel' took 0.022
+[2022.04.27-13.12.56:710][731]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevel_BuiltData69B81ADE4F7F3628A3013E9780D6D2B4.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel_BuiltData.uasset'
+[2022.04.27-13.12.56:725][731]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernForgroundLevel_BuiltData.TavernForgroundLevel_BuiltData
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.TavernBackgroundLevel_BuiltData
+[2022.04.27-13.12.56:725][731]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData

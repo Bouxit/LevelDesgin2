@@ -1131,3 +1131,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-13.43.26:679][375]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.27-13.43.26:679][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBlockout_BuiltData.TavernBlockout_BuiltData
 [2022.04.27-13.43.26:679][375]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.04.27-13.45.37:136][464]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.04.27-13.47.41:664][ 69]Cmd: EDIT COPY
+[2022.04.27-13.47.41:806][ 82]Cmd: EDIT PASTE
+[2022.04.27-13.47.49:277][947]Cmd: EDIT COPY
+[2022.04.27-13.47.49:446][967]Cmd: EDIT PASTE
+[2022.04.27-13.48.01:017][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-13.48.01:048][290]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout5A638C8D46391B0F4B45D89188DE9CD4.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout.umap'
+[2022.04.27-13.48.01:052][290]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout_BuiltDataB54F9B0546CA9B5DBD73ECBA9F984CC5.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout_BuiltData.uasset'
+[2022.04.27-13.48.01:064][290]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-13.48.01:064][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBlockout_BuiltData.TavernBlockout_BuiltData
+[2022.04.27-13.48.01:064][290]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.04.27-13.48.02:992][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.04.27-13.48.03:021][496]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout3C5CADB84E7A80A93B0B3083BBA2FB8D.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout.umap'
+[2022.04.27-13.48.03:026][496]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout_BuiltData796EA57D44F8A1EEEAE5648A18BE80AC.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout_BuiltData.uasset'
+[2022.04.27-13.48.03:033][496]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-13.48.03:033][496]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBlockout_BuiltData.TavernBlockout_BuiltData
+[2022.04.27-13.48.03:034][496]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.04.27-13.48.16:854][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.04.27-13.48.18:025][762]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-13.48.18:050][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.04.27-13.48.18:060][762]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel3CF4A49B4910276FF9BDE385D15B58DD.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel.umap'
+[2022.04.27-13.48.18:061][762]LogFileHelpers: Saving map 'TavernBackgroundLevel' took 0.015
+[2022.04.27-13.48.18:070][762]AssetCheck: New page: Asset Save: TavernBackgroundLevel
+[2022.04.27-13.48.18:070][762]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel

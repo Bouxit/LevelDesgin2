@@ -990,3 +990,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.28-15.14.41:022][ 78]LogFileHelpers: Saving map 'TavernBlockout' took 0.094
 [2022.04.28-15.14.41:047][ 78]AssetCheck: New page: Asset Save: TavernBlockout
 [2022.04.28-15.14.41:047][ 78]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.04.28-15.15.05:647][273]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.06:635][273]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.06:635][273]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.06:690][274]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.06:715][274]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.06:715][274]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.08:695][280]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.09:501][280]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.09:501][280]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.09:561][281]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.09:585][281]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.09:585][281]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.12:580][290]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.13:539][290]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.13:539][290]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.13:598][291]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.13:623][291]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.13:623][291]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.35:398][356]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.36:175][356]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.36:176][356]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-15.15.36:227][357]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.28-15.15.36:258][357]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-15.15.36:258][357]LogAudioMixer: Display: 1: FrontRight

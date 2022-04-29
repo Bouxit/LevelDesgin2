@@ -2860,3 +2860,789 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.29-11.56.01:385][251]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2022.04.29-11.57.19:152][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
 [2022.04.29-11.57.19:737][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.29-12.08.28:092][420]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.08.28:093][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.20.18:485][140]Cmd: EDIT COPY
+[2022.04.29-12.20.18:702][153]Cmd: EDIT PASTE
+[2022.04.29-12.20.28:550][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.20.28:550][717]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:20:28)
+[2022.04.29-12.20.28:550][717]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.20.28:561][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010271s)
+[2022.04.29-12.20.28:562][717]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.20.28:562][717]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2022.04.29-12.20.28:562][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.011994s)
+[2022.04.29-12.20.28:585][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.29-12.20.28:590][717]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.20.28:590][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.20.28:590][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.20.28:591][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.20.28:591][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.20.28:591][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.20.28:591][717]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.20.28:596][717]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.20.28:596][717]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.20.28:611][717]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.20.28:611][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.20.28:611][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.20.28:612][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.20.28:612][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.20.28:612][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.20.28:612][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.20.28:613][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.20.28:613][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.20.28:613][717]LogInit: FAudioDevice initialized.
+[2022.04.29-12.20.28:613][717]LogAudio: Display: Audio Device (ID: 33) registered with world 'BridgeInside'.
+[2022.04.29-12.20.28:625][717]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.20.28:627][717]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.20.28
+[2022.04.29-12.20.28:627][717]LogWorld: Bringing up level for play took: 0.001335
+[2022.04.29-12.20.28:628][717]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.04.29-12.20.28:631][717]PIE: Server logged in
+[2022.04.29-12.20.28:632][717]PIE: Play in editor total start time 0.083 seconds.
+[2022.04.29-12.20.34:609][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.20.34:609][ 73]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.20.34:609][ 73]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.20.34:610][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.20.34:617][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.20.34:633][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.20.34:651][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.20.34:651][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.20.34:652][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.20.34:655][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.20.34:658][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.29-12.20.34:687][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.04.29-12.20.59:168][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.20.59:169][483]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:20:59)
+[2022.04.29-12.20.59:170][483]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.20.59:179][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008706s)
+[2022.04.29-12.20.59:179][483]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.20.59:180][483]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2022.04.29-12.20.59:180][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.010546s)
+[2022.04.29-12.20.59:201][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.04.29-12.20.59:206][483]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.20.59:206][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.20.59:206][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.20.59:207][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.20.59:207][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.20.59:207][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.20.59:207][483]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.20.59:211][483]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.20.59:211][483]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.20.59:226][483]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.20.59:227][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.20.59:227][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.20.59:227][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.20.59:227][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.20.59:227][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.20.59:227][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.20.59:228][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.20.59:228][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.20.59:228][483]LogInit: FAudioDevice initialized.
+[2022.04.29-12.20.59:228][483]LogAudio: Display: Audio Device (ID: 34) registered with world 'BridgeInside'.
+[2022.04.29-12.20.59:237][483]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.20.59:239][483]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.20.59
+[2022.04.29-12.20.59:239][483]LogWorld: Bringing up level for play took: 0.001063
+[2022.04.29-12.20.59:239][483]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.04.29-12.20.59:243][483]PIE: Server logged in
+[2022.04.29-12.20.59:243][483]PIE: Play in editor total start time 0.077 seconds.
+[2022.04.29-12.21.22:928][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.21.22:928][901]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.21.22:928][901]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.21.22:928][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.21.22:943][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.21.22:965][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.21.22:986][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.21.22:986][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.21.22:987][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.21.22:990][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.21.22:993][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.29-12.21.23:025][902]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.04.29-12.21.48:195][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.04.29-12.21.48:222][157]LogSavePackage: Moving '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeInside_Auto80B0B64674BF6424EEE705DAB16EB4D15.tmp' to '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/BridgeInside_Auto8.umap'
+[2022.04.29-12.21.48:225][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/BridgeInside' took 0.055
+[2022.04.29-12.21.48:225][157]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.04.29-12.24.54:212][836]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside:PersistentLevel.BridgeInside
+[2022.04.29-12.25.20:991][ 39]BlueprintLog: New page: Compile BridgeInside
+[2022.04.29-12.25.21:035][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.04.29-12.25.22:488][105]LogSlate: Window 'BridgeInside' being destroyed
+[2022.04.29-12.25.24:054][197]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-12.25.24:063][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.25.24:063][197]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:25:24)
+[2022.04.29-12.25.24:063][197]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.25.24:070][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006978s)
+[2022.04.29-12.25.24:071][197]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.25.24:071][197]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2022.04.29-12.25.24:071][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.008287s)
+[2022.04.29-12.25.24:094][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.29-12.25.24:095][197]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.25.24:095][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.25.24:095][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.25.24:095][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.25.24:095][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.25.24:095][197]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.25.24:100][197]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.25.24:100][197]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.25.24:116][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.25.24:116][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.25.24:118][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.25.24:118][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.25.24:118][197]LogInit: FAudioDevice initialized.
+[2022.04.29-12.25.24:118][197]LogAudio: Display: Audio Device (ID: 35) registered with world 'BridgeInside'.
+[2022.04.29-12.25.24:128][197]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.25.24:130][197]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.25.24
+[2022.04.29-12.25.24:130][197]LogWorld: Bringing up level for play took: 0.001084
+[2022.04.29-12.25.24:130][197]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.04.29-12.25.24:135][197]PIE: Server logged in
+[2022.04.29-12.25.24:136][197]PIE: Play in editor total start time 0.074 seconds.
+[2022.04.29-12.25.45:168][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.25.45:168][456]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.25.45:168][456]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.25.45:168][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.25.45:177][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.25.45:194][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.25.45:213][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.25.45:213][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.25.45:214][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.25.45:221][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.29-12.25.45:246][457]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.04.29-12.25.47:613][597]LogEditorViewport: Clicking on Actor (LMB): MovableCube_Bp_C (MovableCube_Bp)
+[2022.04.29-12.25.49:284][694]Cmd: EDIT COPY
+[2022.04.29-12.25.49:501][707]Cmd: EDIT PASTE
+[2022.04.29-12.25.55:978][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-12.25.55:988][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.25.55:988][ 87]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:25:55)
+[2022.04.29-12.25.55:988][ 87]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.25.55:995][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006361s)
+[2022.04.29-12.25.55:996][ 87]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.25.55:996][ 87]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2022.04.29-12.25.55:996][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.007859s)
+[2022.04.29-12.25.56:020][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.29-12.25.56:021][ 87]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.25.56:021][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.25.56:021][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.25.56:022][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.25.56:022][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.25.56:022][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.25.56:022][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.25.56:026][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.25.56:026][ 87]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.25.56:043][ 87]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.25.56:043][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.25.56:044][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.25.56:044][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.25.56:044][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.25.56:044][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.25.56:044][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.25.56:045][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.25.56:045][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.25.56:045][ 87]LogInit: FAudioDevice initialized.
+[2022.04.29-12.25.56:045][ 87]LogAudio: Display: Audio Device (ID: 36) registered with world 'BridgeInside'.
+[2022.04.29-12.25.56:055][ 87]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.25.56:057][ 87]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.25.56
+[2022.04.29-12.25.56:057][ 87]LogWorld: Bringing up level for play took: 0.001088
+[2022.04.29-12.25.56:057][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.04.29-12.25.56:060][ 87]PIE: Server logged in
+[2022.04.29-12.25.56:061][ 87]PIE: Play in editor total start time 0.074 seconds.
+[2022.04.29-12.26.03:132][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.26.03:132][508]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.26.03:132][508]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.26.03:133][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.26.03:154][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.26.03:180][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.26.03:209][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.26.03:209][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.26.03:211][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.26.03:218][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.29-12.26.03:243][509]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.04.29-12.26.09:048][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.26.09:048][816]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:26:09)
+[2022.04.29-12.26.09:048][816]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.26.09:057][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008833s)
+[2022.04.29-12.26.09:058][816]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.26.09:058][816]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2022.04.29-12.26.09:059][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.010134s)
+[2022.04.29-12.26.09:081][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.29-12.26.09:082][816]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.26.09:082][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.26.09:082][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.26.09:083][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.26.09:083][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.26.09:083][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.26.09:083][816]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.26.09:087][816]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.26.09:087][816]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.26.09:102][816]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.26.09:102][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.26.09:102][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.26.09:103][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.26.09:103][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.26.09:103][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.26.09:103][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.26.09:104][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.26.09:104][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.26.09:104][816]LogInit: FAudioDevice initialized.
+[2022.04.29-12.26.09:104][816]LogAudio: Display: Audio Device (ID: 37) registered with world 'BridgeInside'.
+[2022.04.29-12.26.09:116][816]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.26.09:118][816]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.26.09
+[2022.04.29-12.26.09:119][816]LogWorld: Bringing up level for play took: 0.001323
+[2022.04.29-12.26.09:119][816]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.04.29-12.26.09:123][816]PIE: Server logged in
+[2022.04.29-12.26.09:124][816]PIE: Play in editor total start time 0.077 seconds.
+[2022.04.29-12.26.17:339][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.26.17:339][306]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.26.17:339][306]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.26.17:339][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.26.17:358][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.26.17:393][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.26.17:418][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.26.17:418][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.26.17:419][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.26.17:422][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.26.17:425][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.29-12.26.17:454][307]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.04.29-12.26.18:902][391]LogEditorViewport: Clicking on Actor (context menu): MovableCube_Bp_C (MovableCube_Bp2)
+[2022.04.29-12.26.19:808][439]LogEditorViewport: Clicking on Actor (LMB): MovableCube_Bp_C (MovableCube_Bp2)
+[2022.04.29-12.26.33:896][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.26.33:897][257]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:26:33)
+[2022.04.29-12.26.33:897][257]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.26.33:909][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012478s)
+[2022.04.29-12.26.33:911][257]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.26.33:911][257]LogPlayLevel: PIE: World Init took: (0.002060s)
+[2022.04.29-12.26.33:911][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.014771s)
+[2022.04.29-12.26.33:936][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.29-12.26.33:937][257]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.26.33:937][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.26.33:937][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.26.33:937][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.26.33:938][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.26.33:938][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.26.33:938][257]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.26.33:943][257]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.26.33:943][257]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.26.33:958][257]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.26.33:959][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.26.33:959][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.26.33:959][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.26.33:959][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.26.33:959][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.26.33:959][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.26.33:961][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.26.33:961][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.26.33:961][257]LogInit: FAudioDevice initialized.
+[2022.04.29-12.26.33:961][257]LogAudio: Display: Audio Device (ID: 38) registered with world 'BridgeInside'.
+[2022.04.29-12.26.33:969][257]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.26.33:970][257]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.26.33
+[2022.04.29-12.26.33:970][257]LogWorld: Bringing up level for play took: 0.001014
+[2022.04.29-12.26.33:971][257]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.04.29-12.26.33:974][257]PIE: Server logged in
+[2022.04.29-12.26.33:975][257]PIE: Play in editor total start time 0.08 seconds.
+[2022.04.29-12.27.22:969][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.27.22:969][194]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.27.22:969][194]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.27.22:969][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.27.22:980][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.27.22:995][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.27.23:015][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.27.23:015][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.27.23:016][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.27.23:020][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.27.23:022][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.29-12.27.23:049][195]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.04.29-12.29.36:423][743]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-12.29.36:436][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.29.36:436][743]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:29:36)
+[2022.04.29-12.29.36:436][743]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.29.36:443][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007252s)
+[2022.04.29-12.29.36:444][743]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.29.36:445][743]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2022.04.29-12.29.36:445][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.008608s)
+[2022.04.29-12.29.36:466][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.04.29-12.29.36:467][743]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.29.36:467][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.29.36:467][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.29.36:468][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.29.36:468][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.29.36:468][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.29.36:468][743]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.29.36:472][743]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.29.36:472][743]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.29.36:487][743]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.29.36:487][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.29.36:488][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.29.36:488][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.29.36:488][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.29.36:488][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.29.36:488][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.29.36:489][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.29.36:489][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.29.36:489][743]LogInit: FAudioDevice initialized.
+[2022.04.29-12.29.36:489][743]LogAudio: Display: Audio Device (ID: 39) registered with world 'BridgeInside'.
+[2022.04.29-12.29.36:498][743]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.29.36:499][743]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.29.36
+[2022.04.29-12.29.36:500][743]LogWorld: Bringing up level for play took: 0.001010
+[2022.04.29-12.29.36:500][743]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.04.29-12.29.36:503][743]PIE: Server logged in
+[2022.04.29-12.29.36:504][743]PIE: Play in editor total start time 0.07 seconds.
+[2022.04.29-12.30.33:648][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.30.33:649][167]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.30.33:649][167]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.30.33:649][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.30.33:658][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.30.33:674][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.30.33:693][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.30.33:694][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.30.33:695][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.30.33:700][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.30.33:703][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.29-12.30.33:731][168]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.04.29-12.33.25:121][959]Cmd: EDIT COPY
+[2022.04.29-12.33.25:389][975]Cmd: EDIT PASTE
+[2022.04.29-12.33.36:095][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.33.36:096][584]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:33:36)
+[2022.04.29-12.33.36:096][584]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.33.36:107][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010149s)
+[2022.04.29-12.33.36:108][584]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.33.36:108][584]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2022.04.29-12.33.36:108][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.011784s)
+[2022.04.29-12.33.36:132][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.04.29-12.33.36:133][584]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.33.36:133][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.33.36:134][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.33.36:134][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.33.36:134][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.33.36:134][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.33.36:134][584]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.33.36:139][584]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.33.36:139][584]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.33.36:156][584]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.33.36:156][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.33.36:156][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.33.36:157][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.33.36:157][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.33.36:157][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.33.36:157][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.33.36:158][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.33.36:158][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.33.36:158][584]LogInit: FAudioDevice initialized.
+[2022.04.29-12.33.36:158][584]LogAudio: Display: Audio Device (ID: 40) registered with world 'BridgeInside'.
+[2022.04.29-12.33.36:173][584]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.33.36:174][584]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.33.36
+[2022.04.29-12.33.36:174][584]LogWorld: Bringing up level for play took: 0.000976
+[2022.04.29-12.33.36:174][584]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.04.29-12.33.36:178][584]PIE: Server logged in
+[2022.04.29-12.33.36:179][584]PIE: Play in editor total start time 0.087 seconds.
+[2022.04.29-12.33.38:438][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.33.38:439][718]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.33.38:439][718]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.33.38:439][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.33.38:450][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.33.38:466][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.33.38:486][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.33.38:486][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.33.38:487][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.33.38:491][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.33.38:494][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.04.29-12.33.38:524][719]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.04.29-12.33.54:369][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.33.54:369][617]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:33:54)
+[2022.04.29-12.33.54:370][617]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.33.54:380][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009993s)
+[2022.04.29-12.33.54:381][617]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.33.54:381][617]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2022.04.29-12.33.54:381][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.011452s)
+[2022.04.29-12.33.54:406][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.29-12.33.54:407][617]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.33.54:407][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.33.54:407][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.33.54:408][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.33.54:408][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.33.54:408][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.33.54:408][617]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.33.54:412][617]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.33.54:412][617]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.33.54:428][617]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.33.54:428][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.33.54:428][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.33.54:429][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.33.54:429][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.33.54:429][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.33.54:429][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.33.54:430][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.33.54:430][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.33.54:430][617]LogInit: FAudioDevice initialized.
+[2022.04.29-12.33.54:430][617]LogAudio: Display: Audio Device (ID: 41) registered with world 'BridgeInside'.
+[2022.04.29-12.33.54:436][617]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.33.54:438][617]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.33.54
+[2022.04.29-12.33.54:438][617]LogWorld: Bringing up level for play took: 0.001240
+[2022.04.29-12.33.54:439][617]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.04.29-12.33.54:442][617]PIE: Server logged in
+[2022.04.29-12.33.54:443][617]PIE: Play in editor total start time 0.076 seconds.
+[2022.04.29-12.34.20:669][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.34.20:669][188]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.34.20:669][188]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.34.20:669][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.34.20:682][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.34.20:699][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.34.20:719][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.34.20:719][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.34.20:720][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.34.20:723][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.34.20:726][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.04.29-12.34.20:753][189]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.04.29-12.34.46:465][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.04.29-12.34.46:492][442]LogSavePackage: Moving '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeInside_Auto94056775F4EBBD2F33A48AA9D12A55681.tmp' to '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/BridgeInside_Auto9.umap'
+[2022.04.29-12.34.46:494][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/BridgeInside' took 0.073
+[2022.04.29-12.34.46:494][442]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2022.04.29-12.39.11:363][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.39.11:363][437]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:39:11)
+[2022.04.29-12.39.11:363][437]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.39.11:371][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008378s)
+[2022.04.29-12.39.11:373][437]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.39.11:373][437]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2022.04.29-12.39.11:373][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.010391s)
+[2022.04.29-12.39.11:397][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.04.29-12.39.11:397][437]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.39.11:397][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.39.11:397][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.39.11:398][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.39.11:398][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.39.11:398][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.39.11:398][437]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.39.11:403][437]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.39.11:403][437]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.39.11:423][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.39.11:423][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.39.11:425][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.39.11:425][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.39.11:425][437]LogInit: FAudioDevice initialized.
+[2022.04.29-12.39.11:425][437]LogAudio: Display: Audio Device (ID: 42) registered with world 'BridgeInside'.
+[2022.04.29-12.39.11:438][437]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.39.11:440][437]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.39.11
+[2022.04.29-12.39.11:440][437]LogWorld: Bringing up level for play took: 0.001115
+[2022.04.29-12.39.11:440][437]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.04.29-12.39.11:444][437]PIE: Server logged in
+[2022.04.29-12.39.11:445][437]PIE: Play in editor total start time 0.085 seconds.
+[2022.04.29-12.39.21:578][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.39.21:578][ 43]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.39.21:578][ 43]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.39.21:579][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.39.21:591][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.39.21:609][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.39.21:631][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.39.21:631][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.39.21:632][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.39.21:635][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.39.21:639][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.29-12.39.21:690][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.04.29-12.39.30:950][588]Cmd: EDIT COPY
+[2022.04.29-12.39.31:167][601]Cmd: EDIT PASTE
+[2022.04.29-12.39.51:463][785]Cmd: TRANSACTION UNDO
+[2022.04.29-12.39.51:463][785]LogEditorTransaction: Undo Move Actors
+[2022.04.29-12.39.51:482][785]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2022.04.29-12.39.51:482][785]LogGeometryMode: Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2022.04.29-12.39.51:482][785]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.04.29-12.39.55:901][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.39.55:901][ 11]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:39:55)
+[2022.04.29-12.39.55:901][ 11]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.39.55:909][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008149s)
+[2022.04.29-12.39.55:910][ 11]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.39.55:910][ 11]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2022.04.29-12.39.55:911][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.009326s)
+[2022.04.29-12.39.55:936][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.29-12.39.55:939][ 11]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.39.55:939][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.39.55:939][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.39.55:939][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.39.55:939][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.39.55:939][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.39.55:944][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.39.55:944][ 11]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.39.55:959][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.39.55:960][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.39.55:961][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.39.55:961][ 11]LogInit: FAudioDevice initialized.
+[2022.04.29-12.39.55:961][ 11]LogAudio: Display: Audio Device (ID: 43) registered with world 'BridgeInside'.
+[2022.04.29-12.39.55:971][ 11]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.39.55:972][ 11]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.39.55
+[2022.04.29-12.39.55:972][ 11]LogWorld: Bringing up level for play took: 0.001042
+[2022.04.29-12.39.55:973][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.04.29-12.39.55:976][ 11]PIE: Server logged in
+[2022.04.29-12.39.55:977][ 11]PIE: Play in editor total start time 0.077 seconds.
+[2022.04.29-12.40.07:799][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.40.07:799][718]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.40.07:799][718]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.40.07:799][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.40.07:809][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.40.07:824][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.40.07:844][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.40.07:846][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.40.07:847][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.40.07:850][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.40.07:853][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.29-12.40.07:880][719]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.04.29-12.40.10:144][849]LogEditorViewport: Clicking on Actor (LMB): MovableCube_Bp_C (MovableCube_Bp2)
+[2022.04.29-12.40.11:299][916]Cmd: EDIT COPY
+[2022.04.29-12.40.11:500][928]Cmd: EDIT PASTE
+[2022.04.29-12.41.11:582][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.41.11:582][428]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:41:11)
+[2022.04.29-12.41.11:582][428]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.41.11:594][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011610s)
+[2022.04.29-12.41.11:595][428]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.41.11:595][428]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2022.04.29-12.41.11:595][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.012915s)
+[2022.04.29-12.41.11:622][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.04.29-12.41.11:623][428]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.41.11:623][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.41.11:623][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.41.11:623][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.41.11:623][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.41.11:623][428]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.41.11:629][428]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.41.11:629][428]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.41.11:645][428]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.41.11:646][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.41.11:646][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.41.11:646][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.41.11:646][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.41.11:646][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.41.11:646][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.41.11:648][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.41.11:649][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.41.11:649][428]LogInit: FAudioDevice initialized.
+[2022.04.29-12.41.11:649][428]LogAudio: Display: Audio Device (ID: 44) registered with world 'BridgeInside'.
+[2022.04.29-12.41.11:660][428]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.41.11:662][428]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.41.11
+[2022.04.29-12.41.11:663][428]LogWorld: Bringing up level for play took: 0.001445
+[2022.04.29-12.41.11:663][428]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.04.29-12.41.11:667][428]PIE: Server logged in
+[2022.04.29-12.41.11:669][428]PIE: Play in editor total start time 0.088 seconds.
+[2022.04.29-12.41.18:129][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.41.18:129][814]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.41.18:129][814]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.41.18:129][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.41.18:142][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.41.18:157][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.41.18:177][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.41.18:178][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.41.18:179][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.41.18:182][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.41.18:185][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.29-12.41.18:216][815]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.04.29-12.41.29:038][442]Cmd: EDIT COPY
+[2022.04.29-12.41.29:255][455]Cmd: EDIT PASTE
+[2022.04.29-12.42.04:377][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.42.04:377][731]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:42:04)
+[2022.04.29-12.42.04:377][731]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.42.04:390][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011491s)
+[2022.04.29-12.42.04:391][731]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.42.04:391][731]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.04.29-12.42.04:391][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.012722s)
+[2022.04.29-12.42.04:415][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.29-12.42.04:417][731]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.42.04:417][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.42.04:417][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.42.04:417][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.42.04:417][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.42.04:418][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.42.04:418][731]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.42.04:422][731]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.42.04:422][731]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.42.04:436][731]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.42.04:436][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.42.04:436][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.42.04:436][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.42.04:437][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.42.04:437][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.42.04:437][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.42.04:438][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.42.04:438][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.42.04:438][731]LogInit: FAudioDevice initialized.
+[2022.04.29-12.42.04:438][731]LogAudio: Display: Audio Device (ID: 45) registered with world 'BridgeInside'.
+[2022.04.29-12.42.04:445][731]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.42.04:447][731]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.42.04
+[2022.04.29-12.42.04:448][731]LogWorld: Bringing up level for play took: 0.001695
+[2022.04.29-12.42.04:448][731]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.04.29-12.42.04:450][731]PIE: Server logged in
+[2022.04.29-12.42.04:451][731]PIE: Play in editor total start time 0.075 seconds.
+[2022.04.29-12.42.46:609][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.42.46:609][257]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.42.46:609][257]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.42.46:609][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.42.46:616][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.42.46:633][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.42.46:654][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.42.46:654][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.42.46:655][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.42.46:659][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.42.46:663][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.29-12.42.46:692][258]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.04.29-12.45.57:803][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.29-12.45.57:834][959]LogSavePackage: Moving '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeInside_Auto038D9CBB84E2B59B9795EFABCF54B7643.tmp' to '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/BridgeInside_Auto0.umap'
+[2022.04.29-12.45.57:836][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/BridgeInside' took 0.072
+[2022.04.29-12.45.57:836][959]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2022.04.29-12.55.48:712][478]Cmd: EDIT COPY
+[2022.04.29-12.55.48:897][489]Cmd: EDIT PASTE
+[2022.04.29-12.55.54:378][805]LogEditorViewport: Clicking Background
+[2022.04.29-12.55.54:912][836]LogEditorViewport: Clicking Background
+[2022.04.29-12.55.55:429][867]LogEditorViewport: Clicking Background
+[2022.04.29-12.55.56:362][923]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2022.04.29-12.56.01:346][213]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2022.04.29-12.56.07:466][568]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2022.04.29-12.56.13:253][909]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.04.29-12.56.26:313][674]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.04.29-12.56.33:335][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-12.56.33:342][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-12.56.33:342][ 78]PIE: New page: PIE session: BridgeInside (29 Apr 2022, 16:56:33)
+[2022.04.29-12.56.33:343][ 78]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.56.33:352][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008639s)
+[2022.04.29-12.56.33:353][ 78]LogAIModule: Creating AISystem for world BridgeInside
+[2022.04.29-12.56.33:353][ 78]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2022.04.29-12.56.33:353][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside to /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside (0.009936s)
+[2022.04.29-12.56.33:373][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.04.29-12.56.33:375][ 78]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.04.29-12.56.33:375][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-12.56.33:375][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-12.56.33:375][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-12.56.33:376][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-12.56.33:376][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-12.56.33:376][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-12.56.33:376][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-12.56.33:376][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-12.56.33:376][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-12.56.33:376][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-12.56.33:376][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-12.56.33:376][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-12.56.33:381][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-12.56.33:381][ 78]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-12.56.33:395][ 78]LogAudioMixer: Display: Using Audio Device Headphones (2- Razer Nari Ultimate - Game)
+[2022.04.29-12.56.33:395][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-12.56.33:396][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-12.56.33:396][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-12.56.33:396][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-12.56.33:396][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-12.56.33:396][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-12.56.33:397][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-12.56.33:397][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-12.56.33:397][ 78]LogInit: FAudioDevice initialized.
+[2022.04.29-12.56.33:397][ 78]LogAudio: Display: Audio Device (ID: 46) registered with world 'BridgeInside'.
+[2022.04.29-12.56.33:409][ 78]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.04.29-12.56.33:411][ 78]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 60) at 2022.04.29-14.56.33
+[2022.04.29-12.56.33:412][ 78]LogWorld: Bringing up level for play took: 0.001431
+[2022.04.29-12.56.33:412][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.04.29-12.56.33:416][ 78]PIE: Server logged in
+[2022.04.29-12.56.33:416][ 78]PIE: Play in editor total start time 0.075 seconds.
+[2022.04.29-12.56.36:269][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.56.36:269][247]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.04.29-12.56.36:269][247]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.56.36:269][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.56.36:291][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-12.56.36:328][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.56.36:367][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-12.56.36:367][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.56.36:368][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-12.56.36:372][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-12.56.36:375][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.04.29-12.56.36:404][248]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.04.29-12.56.38:160][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.04.29-12.56.39:272][347]LogSlate: Window 'Save Content' being destroyed
+[2022.04.29-12.56.39:345][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.29-12.56.39:383][347]LogSavePackage: Moving '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeInsideAEB6A19245739BD9A4CC119F64A19084.tmp' to '../../../../../../Users/vikst/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/BridgeInside.umap'
+[2022.04.29-12.56.39:400][347]LogFileHelpers: Saving map 'BridgeInside' took 0.085
+[2022.04.29-12.56.39:417][347]AssetCheck: New page: Asset Save: BridgeInside
+[2022.04.29-12.56.39:417][347]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/BridgeInside.BridgeInside

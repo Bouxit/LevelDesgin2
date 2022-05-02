@@ -1073,3 +1073,480 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.02-13.13.59:921][ 96]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.02-13.13.59:921][ 96]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernPart2.TavernPart2
 [2022.05.02-13.13.59:921][ 96]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.05.02-13.14.46:308][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided3)
+[2022.05.02-13.14.48:923][530]Cmd: EDIT COPY
+[2022.05.02-13.14.49:113][544]Cmd: EDIT PASTE
+[2022.05.02-13.15.13:331][308]Cmd: EDIT COPY
+[2022.05.02-13.15.13:520][325]Cmd: EDIT PASTE
+[2022.05.02-13.15.19:257][991]Cmd: EDIT COPY
+[2022.05.02-13.15.19:449][ 14]Cmd: EDIT PASTE
+[2022.05.02-13.15.22:300][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided17)
+[2022.05.02-13.15.30:211][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_TwoSided16)
+[2022.05.02-13.15.31:228][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_Door3)
+[2022.05.02-13.15.31:734][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_TwoSided18)
+[2022.05.02-13.15.32:582][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door3)
+[2022.05.02-13.15.36:628][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided18)
+[2022.05.02-13.15.37:121][698]Cmd: EDIT COPY
+[2022.05.02-13.15.37:297][718]Cmd: EDIT PASTE
+[2022.05.02-13.16.44:296][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided4)
+[2022.05.02-13.16.46:348][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.16.50:166][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A4)
+[2022.05.02-13.16.50:939][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A4)
+[2022.05.02-13.16.57:418][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_8)
+[2022.05.02-13.16.58:872][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.17.03:602][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A2)
+[2022.05.02-13.17.06:712][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.17.07:448][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.17.08:460][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.17.09:238][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.02-13.17.10:864][437]Cmd: EDIT COPY
+[2022.05.02-13.17.11:064][452]Cmd: EDIT PASTE
+[2022.05.02-13.17.58:139][350]Cmd: DELETE
+[2022.05.02-13.17.58:139][350]Cmd: ACTOR DELETE
+[2022.05.02-13.17.58:148][350]LogEditorActor: Deleted Actor: Brush
+[2022.05.02-13.17.58:153][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.02-13.17.58:158][350]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.05.02-13.18.02:917][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A5)
+[2022.05.02-13.18.03:589][964]Cmd: EDIT COPY
+[2022.05.02-13.18.03:750][983]Cmd: EDIT PASTE
+[2022.05.02-13.18.06:871][334]Cmd: EDIT COPY
+[2022.05.02-13.18.07:047][348]Cmd: EDIT PASTE
+[2022.05.02-13.18.09:896][676]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.02-13.18.10:332][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A6)
+[2022.05.02-13.18.11:899][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_2A7)
+[2022.05.02-13.18.12:583][989]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A6)
+[2022.05.02-13.18.13:442][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A5)
+[2022.05.02-13.18.13:899][141]Cmd: EDIT COPY
+[2022.05.02-13.18.14:070][161]Cmd: EDIT PASTE
+[2022.05.02-13.18.21:099][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_8)
+[2022.05.02-13.18.22:185][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_7)
+[2022.05.02-13.18.22:778][159]Cmd: EDIT COPY
+[2022.05.02-13.18.22:956][180]Cmd: EDIT PASTE
+[2022.05.02-13.18.29:487][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_10)
+[2022.05.02-13.18.39:156][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.18.39:156][ 40]PIE: New page: PIE session: SideScrollerExampleMap (2 May 2022, 17:18:39)
+[2022.05.02-13.18.39:160][ 40]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.02-13.18.39:161][ 40]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.02-13.18.39:162][ 40]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.18.39:171][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008783s)
+[2022.05.02-13.18.39:172][ 40]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.02-13.18.39:173][ 40]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2022.05.02-13.18.39:173][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010775s)
+[2022.05.02-13.18.39:178][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.05.02-13.18.39:180][ 40]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.18.39:180][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.18.39:180][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.18.39:180][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.18.39:180][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.18.39:180][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 2: FrontCenter
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 3: LowFrequency
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 4: BackLeft
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 5: BackRight
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 6: SideLeft
+[2022.05.02-13.18.39:183][ 40]LogAudioMixer: Display: 7: SideRight
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial Audio)
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.18.39:189][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.05.02-13.18.39:190][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.18.39:190][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.18.39:190][ 40]LogInit: FAudioDevice initialized.
+[2022.05.02-13.18.39:190][ 40]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.05.02-13.18.39:204][ 40]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.02-13.18.39:252][ 40]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.02-15.18.39
+[2022.05.02-13.18.39:255][ 40]LogWorld: Bringing up level for play took: 0.003222
+[2022.05.02-13.18.39:256][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.05.02-13.18.39:265][ 40]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.02-13.18.39:274][ 40]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=43.747 Y=-863.822 Z=-37.900] for [SideScrollerCharacter_C]
+[2022.05.02-13.18.39:275][ 40]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type SideScrollerCharacter_C at Rotation: Pitch 0.000000 Yaw 166.199280 Roll 0.000000
+Translation: 43.746521 -863.822144 -37.900002
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.05.02-13.18.39:277][ 40]PIE: Server logged in
+[2022.05.02-13.18.39:279][ 40]PIE: Play in editor total start time 0,125 seconds.
+[2022.05.02-13.18.40:123][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.18.40:123][132]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.18.40:124][132]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.18.40:124][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.18.40:133][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.18.40:142][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.18.40:147][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-13.18.40:148][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.18.40:149][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.18.40:154][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.18.40:159][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.02-13.18.40:180][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.02-13.18.40:201][135]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.02-13.18.42:579][414]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.02-13.18.42:582][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.18.42:582][414]PIE: New page: PIE session: SideScrollerExampleMap (2 May 2022, 17:18:42)
+[2022.05.02-13.18.42:583][414]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.18.42:591][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008099s)
+[2022.05.02-13.18.42:591][414]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.02-13.18.42:592][414]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2022.05.02-13.18.42:592][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009286s)
+[2022.05.02-13.18.42:597][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.02-13.18.42:598][414]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.18.42:599][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.18.42:599][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.18.42:599][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.18.42:599][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.18.42:599][414]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 2: FrontCenter
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 3: LowFrequency
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 4: BackLeft
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 5: BackRight
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 6: SideLeft
+[2022.05.02-13.18.42:602][414]LogAudioMixer: Display: 7: SideRight
+[2022.05.02-13.18.42:606][414]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial Audio)
+[2022.05.02-13.18.42:606][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.18.42:607][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.18.42:607][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.18.42:607][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.18.42:607][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.18.42:607][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.05.02-13.18.42:608][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.18.42:608][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.18.42:608][414]LogInit: FAudioDevice initialized.
+[2022.05.02-13.18.42:608][414]LogAudio: Display: Audio Device (ID: 3) registered with world 'SideScrollerExampleMap'.
+[2022.05.02-13.18.42:618][414]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.02-13.18.42:659][414]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.02-15.18.42
+[2022.05.02-13.18.42:660][414]LogWorld: Bringing up level for play took: 0.000565
+[2022.05.02-13.18.42:660][414]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.05.02-13.18.42:665][414]PIE: Server logged in
+[2022.05.02-13.18.42:666][414]PIE: Play in editor total start time 0,084 seconds.
+[2022.05.02-13.19.03:901][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.19.03:901][911]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.19.03:902][911]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.19.03:902][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.19.03:908][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.19.03:917][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.19.03:921][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.19.03:921][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.19.03:922][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.19.03:926][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.02-13.19.03:948][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.02-13.19.03:963][913]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.02-13.20.04:050][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_10)
+[2022.05.02-13.20.04:655][715]Cmd: EDIT COPY
+[2022.05.02-13.20.04:825][735]Cmd: EDIT PASTE
+[2022.05.02-13.20.07:280][ 25]Cmd: EDIT COPY
+[2022.05.02-13.20.07:467][ 47]Cmd: EDIT PASTE
+[2022.05.02-13.20.09:851][320]Cmd: EDIT COPY
+[2022.05.02-13.20.10:024][334]Cmd: EDIT PASTE
+[2022.05.02-13.20.14:352][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor12)
+[2022.05.02-13.20.18:173][238]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor9)
+[2022.05.02-13.20.19:234][361]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor8)
+[2022.05.02-13.20.19:659][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor7)
+[2022.05.02-13.20.21:307][592]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor13)
+[2022.05.02-13.20.23:516][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor10)
+[2022.05.02-13.20.26:479][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor15)
+[2022.05.02-13.20.26:944][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor14)
+[2022.05.02-13.20.27:420][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor3)
+[2022.05.02-13.20.28:004][313]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor5)
+[2022.05.02-13.20.30:049][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor6)
+[2022.05.02-13.20.30:648][607]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4)
+[2022.05.02-13.20.36:281][222]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor11)
+[2022.05.02-13.20.38:450][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor)
+[2022.05.02-13.20.40:943][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2)
+[2022.05.02-13.20.47:468][462]Cmd: EDIT COPY
+[2022.05.02-13.20.47:649][483]Cmd: EDIT PASTE
+[2022.05.02-13.21.01:584][103]Cmd: EDIT COPY
+[2022.05.02-13.21.01:797][122]Cmd: EDIT PASTE
+[2022.05.02-13.21.08:863][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor25)
+[2022.05.02-13.21.11:423][197]Cmd: EDIT COPY
+[2022.05.02-13.21.11:570][210]Cmd: EDIT PASTE
+[2022.05.02-13.21.14:391][532]Cmd: EDIT COPY
+[2022.05.02-13.21.14:566][550]Cmd: EDIT PASTE
+[2022.05.02-13.21.23:044][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor41)
+[2022.05.02-13.23.53:060][552]LogStaticMesh: Building static mesh SM_Stair...
+[2022.05.02-13.23.53:236][552]LogStaticMesh: Built static mesh [0.18s] /Game/LowPolyMedievalConstructions/Meshes/SM_Stair.SM_Stair
+[2022.05.02-13.23.53:521][580]LogActorFactory: Actor Factory created SM_Stair
+[2022.05.02-13.23.54:805][714]LogActorFactory: Actor Factory created SM_Stair
+[2022.05.02-13.23.57:059][963]Cmd: DELETE
+[2022.05.02-13.23.57:059][963]Cmd: ACTOR DELETE
+[2022.05.02-13.23.57:064][963]LogEditorActor: Deleted Actor: Brush
+[2022.05.02-13.23.57:069][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.02-13.23.57:088][963]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.05.02-13.23.59:411][237]Cmd: DELETE
+[2022.05.02-13.23.59:411][237]Cmd: ACTOR DELETE
+[2022.05.02-13.23.59:416][237]LogEditorActor: Deleted Actor: Brush
+[2022.05.02-13.23.59:421][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.02-13.23.59:440][237]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.05.02-13.24.01:752][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2022.05.02-13.24.02:435][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stair)
+[2022.05.02-13.24.29:101][550]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor9)
+[2022.05.02-13.24.30:988][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.24.30:988][729]PIE: New page: PIE session: SideScrollerExampleMap (2 May 2022, 17:24:30)
+[2022.05.02-13.24.31:021][729]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.24.31:030][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009486s)
+[2022.05.02-13.24.31:031][729]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.02-13.24.31:031][729]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2022.05.02-13.24.31:031][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010563s)
+[2022.05.02-13.24.31:037][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.02-13.24.31:038][729]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.24.31:038][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.24.31:038][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.24.31:038][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.24.31:038][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.24.31:038][729]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.24.31:041][729]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.24.31:041][729]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.24.31:041][729]LogAudioMixer: Display: 2: FrontCenter
+[2022.05.02-13.24.31:042][729]LogAudioMixer: Display: 3: LowFrequency
+[2022.05.02-13.24.31:042][729]LogAudioMixer: Display: 4: BackLeft
+[2022.05.02-13.24.31:042][729]LogAudioMixer: Display: 5: BackRight
+[2022.05.02-13.24.31:042][729]LogAudioMixer: Display: 6: SideLeft
+[2022.05.02-13.24.31:042][729]LogAudioMixer: Display: 7: SideRight
+[2022.05.02-13.24.31:047][729]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial Audio)
+[2022.05.02-13.24.31:047][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.24.31:047][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.24.31:047][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.24.31:047][729]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.24.31:048][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.24.31:048][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.05.02-13.24.31:048][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.24.31:048][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.24.31:048][729]LogInit: FAudioDevice initialized.
+[2022.05.02-13.24.31:048][729]LogAudio: Display: Audio Device (ID: 4) registered with world 'SideScrollerExampleMap'.
+[2022.05.02-13.24.31:055][729]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.02-13.24.31:096][729]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.02-15.24.31
+[2022.05.02-13.24.31:097][729]LogWorld: Bringing up level for play took: 0.000594
+[2022.05.02-13.24.31:097][729]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.05.02-13.24.31:100][729]PIE: Server logged in
+[2022.05.02-13.24.31:100][729]PIE: Play in editor total start time 0,112 seconds.
+[2022.05.02-13.24.34:162][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.24.34:162][ 81]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.24.34:162][ 81]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.24.34:162][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.24.34:167][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.24.34:178][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.24.34:182][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-13.24.34:182][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.24.34:183][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.24.34:184][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.24.34:186][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.02-13.24.34:213][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.02-13.24.34:237][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.02-13.24.40:155][768]Cmd: DELETE
+[2022.05.02-13.24.40:155][768]Cmd: ACTOR DELETE
+[2022.05.02-13.24.40:159][768]LogEditorActor: Deleted Actor: Brush
+[2022.05.02-13.24.40:163][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.05.02-13.24.40:179][768]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.05.02-13.25.08:104][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.02-13.25.08:122][168]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel_Auto120FC5EBE4E99780F0EA306AA7EDD6E58.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/TavernBackgroundLevel_Auto1.umap'
+[2022.05.02-13.25.08:142][168]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout_Auto109DC366A43E53499C33C4C9A95C87A6B.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/TavernBlockout_Auto1.umap'
+[2022.05.02-13.25.08:152][168]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernPart2_Auto14A14722B4B3CB1BE0ECE599F1B9C9A84.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/TavernPart2_Auto1.umap'
+[2022.05.02-13.25.08:153][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.054
+[2022.05.02-13.25.08:153][168]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.05.02-13.25.34:905][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided10)
+[2022.05.02-13.25.35:223][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided10)
+[2022.05.02-13.25.37:090][185]Cmd: EDIT COPY
+[2022.05.02-13.25.37:303][201]Cmd: EDIT PASTE
+[2022.05.02-13.25.43:475][859]Cmd: EDIT COPY
+[2022.05.02-13.25.43:634][874]Cmd: EDIT PASTE
+[2022.05.02-13.25.45:938][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_TwoSided20)
+[2022.05.02-13.25.49:544][555]Cmd: EDIT COPY
+[2022.05.02-13.25.49:729][569]Cmd: EDIT PASTE
+[2022.05.02-13.25.57:992][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided22)
+[2022.05.02-13.26.01:045][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_TwoSided23)
+[2022.05.02-13.26.02:888][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A_TwoSided20)
+[2022.05.02-13.26.04:645][257]Cmd: EDIT COPY
+[2022.05.02-13.26.04:818][277]Cmd: EDIT PASTE
+[2022.05.02-13.26.33:655][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided11)
+[2022.05.02-13.26.36:560][761]Cmd: EDIT COPY
+[2022.05.02-13.26.36:741][774]Cmd: EDIT PASTE
+[2022.05.02-13.26.43:427][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door3)
+[2022.05.02-13.26.45:683][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door3)
+[2022.05.02-13.26.46:277][816]Cmd: EDIT COPY
+[2022.05.02-13.26.46:466][831]Cmd: EDIT PASTE
+[2022.05.02-13.26.56:611][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided26)
+[2022.05.02-13.27.00:063][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door4)
+[2022.05.02-13.27.07:195][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided11)
+[2022.05.02-13.27.09:418][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door4)
+[2022.05.02-13.27.12:998][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_8)
+[2022.05.02-13.27.13:934][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door4)
+[2022.05.02-13.27.19:950][670]Cmd: TRANSACTION UNDO
+[2022.05.02-13.27.19:950][670]LogEditorTransaction: Undo Move Actors
+[2022.05.02-13.27.21:900][860]Cmd: TRANSACTION UNDO
+[2022.05.02-13.27.21:900][860]LogEditorTransaction: Undo Move Actors
+[2022.05.02-13.27.22:150][889]Cmd: TRANSACTION UNDO
+[2022.05.02-13.27.22:150][889]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.02-13.27.23:777][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door4)
+[2022.05.02-13.27.25:883][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door4)
+[2022.05.02-13.27.28:671][655]Cmd: TRANSACTION UNDO
+[2022.05.02-13.27.28:671][655]LogEditorTransaction: Undo Scale Actors
+[2022.05.02-13.27.29:878][755]LogSlate: Took 0.004226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.02-13.27.35:581][422]Cmd: TRANSACTION UNDO
+[2022.05.02-13.27.35:581][422]LogEditorTransaction: Undo Set Scale
+[2022.05.02-13.27.49:768][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided26)
+[2022.05.02-13.27.53:942][643]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.02-13.27.53:945][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.27.53:945][643]PIE: New page: PIE session: SideScrollerExampleMap (2 May 2022, 17:27:53)
+[2022.05.02-13.27.53:981][643]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.27.53:990][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008717s)
+[2022.05.02-13.27.53:991][643]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.02-13.27.53:991][643]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2022.05.02-13.27.53:991][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009900s)
+[2022.05.02-13.27.53:996][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.02-13.27.53:997][643]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.27.53:997][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.27.53:997][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.27.53:997][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.27.53:997][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.27.53:997][643]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 2: FrontCenter
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 3: LowFrequency
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 4: BackLeft
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 5: BackRight
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 6: SideLeft
+[2022.05.02-13.27.54:001][643]LogAudioMixer: Display: 7: SideRight
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial Audio)
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.27.54:006][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.27.54:006][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.05.02-13.27.54:008][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.27.54:008][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.27.54:008][643]LogInit: FAudioDevice initialized.
+[2022.05.02-13.27.54:008][643]LogAudio: Display: Audio Device (ID: 5) registered with world 'SideScrollerExampleMap'.
+[2022.05.02-13.27.54:013][643]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.02-13.27.54:054][643]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.02-15.27.54
+[2022.05.02-13.27.54:054][643]LogWorld: Bringing up level for play took: 0.000619
+[2022.05.02-13.27.54:054][643]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.02-13.27.54:058][643]PIE: Server logged in
+[2022.05.02-13.27.54:058][643]PIE: Play in editor total start time 0,114 seconds.
+[2022.05.02-13.27.57:951][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.27.57:951][103]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.27.57:952][103]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.27.57:953][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.27.57:958][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.27.57:970][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.27.57:973][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-13.27.57:974][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.27.57:975][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.27.57:976][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.27.57:978][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.02-13.27.58:006][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.02-13.27.58:022][105]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.02-13.28.00:921][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided11)
+[2022.05.02-13.28.07:098][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided26)
+[2022.05.02-13.28.11:456][579]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.02-13.28.11:460][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.28.11:460][579]PIE: New page: PIE session: SideScrollerExampleMap (2 May 2022, 17:28:11)
+[2022.05.02-13.28.11:501][579]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.28.11:509][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008682s)
+[2022.05.02-13.28.11:510][579]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.02-13.28.11:511][579]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2022.05.02-13.28.11:511][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009853s)
+[2022.05.02-13.28.11:515][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.02-13.28.11:517][579]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.28.11:517][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.28.11:517][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.28.11:517][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.28.11:517][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.28.11:517][579]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 2: FrontCenter
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 3: LowFrequency
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 4: BackLeft
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 5: BackRight
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 6: SideLeft
+[2022.05.02-13.28.11:520][579]LogAudioMixer: Display: 7: SideRight
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial Audio)
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.28.11:526][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.28.11:526][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.05.02-13.28.11:527][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.28.11:527][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.28.11:527][579]LogInit: FAudioDevice initialized.
+[2022.05.02-13.28.11:527][579]LogAudio: Display: Audio Device (ID: 6) registered with world 'SideScrollerExampleMap'.
+[2022.05.02-13.28.11:532][579]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.02-13.28.11:572][579]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.02-15.28.11
+[2022.05.02-13.28.11:572][579]LogWorld: Bringing up level for play took: 0.000575
+[2022.05.02-13.28.11:572][579]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.02-13.28.11:575][579]PIE: Server logged in
+[2022.05.02-13.28.11:575][579]PIE: Play in editor total start time 0,116 seconds.
+[2022.05.02-13.28.15:752][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.28.15:752][ 69]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.02-13.28.15:752][ 69]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.28.15:752][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.28.15:759][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.28.15:770][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.28.15:775][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.28.15:775][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.28.15:776][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.28.15:779][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.02-13.28.15:807][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.02-13.28.15:823][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.02-13.28.33:215][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided26)
+[2022.05.02-13.28.37:604][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_8)
+[2022.05.02-13.28.38:610][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Door4)
+[2022.05.02-13.28.39:992][855]Cmd: EDIT COPY
+[2022.05.02-13.28.40:641][933]Cmd: EDIT PASTE
+[2022.05.02-13.28.54:936][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.02-13.28.56:038][505]LogSlate: Window 'Save Content' being destroyed
+[2022.05.02-13.28.56:066][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.05.02-13.28.56:083][505]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevelADED1B8847190BA5C4DBD79E79774620.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel.umap'
+[2022.05.02-13.28.56:084][505]LogFileHelpers: Saving map 'TavernBackgroundLevel' took 0.022
+[2022.05.02-13.28.56:088][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.02-13.28.56:108][505]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout01A1B2F24D84186F08A225B9F7515A59.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout.umap'
+[2022.05.02-13.28.56:109][505]LogFileHelpers: Saving map 'TavernBlockout' took 0.024
+[2022.05.02-13.28.56:113][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.02-13.28.56:123][505]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernPart2FA71D1874E52098DC40E37BD092D950B.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernPart2.umap'
+[2022.05.02-13.28.56:124][505]LogFileHelpers: Saving map 'TavernPart2' took 0.015
+[2022.05.02-13.28.56:134][505]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.02-13.28.56:134][505]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernPart2.TavernPart2
+[2022.05.02-13.28.56:134][505]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.05.02-13.28.56:134][505]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel

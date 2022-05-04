@@ -7136,3 +7136,1042 @@ Script Stack (0 frames):
 [2022.05.04-12.01.07:577][890]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/BridgeOutside.BridgeOutside
 [2022.05.04-12.01.07:577][890]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2022.05.04-12.01.07:577][890]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/EndHoue.EndHoue
+[2022.05.04-12.01.51:543][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.04-12.04.15:971][146]MapCheck: New page: Map Check
+[2022.05.04-12.04.19:206][146]LogSlate: Window 'Message' being destroyed
+[2022.05.04-12.04.19:210][146]Message dialog closed, result: Cancel, title: Message, text: The following levels are hidden:
+
+    /Game/SideScrollerBP/Maps/TavernBlockout
+
+These levels will not be rebuilt. Leaving them hidden may invalidate what is built in other levels.
+
+Continue with build?
+(Yes All will show all hidden levels and continue with the build)
+[2022.05.04-12.04.19:214][146]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.04-12.04.19:215][146]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for TavernBlockout, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for OutsideBackground, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for TavernForgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for TavernPart2, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for BridgeOutside, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for TavernBackgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:273][146]LogWorld: UWorld::CleanupWorld for EndHoue, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.04.19:373][146]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.05.04-12.04.19:373][146]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.05.04-12.04.19:373][146]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.05.04-12.04.19:382][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.04-12.04.19:553][146]LogLevel: Display: Export Material TexCoord Scales took 0.150 seconds.
+[2022.05.04-12.04.19:561][146]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2022.05.04-12.04.19:567][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-12.04.19:572][146]LightingResults: New page: Lighting Build - 4 May 2022, 16:04:19
+[2022.05.04-12.04.20:917][146]LogSlate: Window 'Rebuild Lighting - Warning' being destroyed
+[2022.05.04-12.04.20:930][146]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.04.20:932][146]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.04.21:033][146]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.04-12.04.21:072][146]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.04-12.04.21:090][146]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.04-12.04.21:617][146]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.04-12.04.21:617][146]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26416
+[2022.05.04-12.04.28:339][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.04-12.04.28:339][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.04-12.04.28:339][146]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.04-12.04.28:339][146]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.04-12.04.28:339][146]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.04-12.04.28:740][146]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.04-12.04.28:740][146]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:04:28
+[2022.05.04-12.04.28:741][146]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.05.04-12.04.28:744][146]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.28:744][146]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.28:744][146]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.28:744][146]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.28:744][146]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.28:745][146]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 4,555ms to complete.
+[2022.05.04-12.04.28:746][146]LogEditorBuildUtils: Build time 0:12
+[2022.05.04-12.04.28:915][146]LogSlate: Took 0.004989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.04-12.04.28:926][147]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Common_Tree_03 in PCD3D_SM5, Default, SM5 (DDC key hash: A7526E79319664385B5C50C05AF14BDE007F8941), compiling. 
+[2022.05.04-12.04.28:930][147]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.28:932][147]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Common_Tree_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 5689C2E3D8C4748111FF6824048FB835C4F98E97), compiling. 
+[2022.05.04-12.04.28:934][147]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.28:936][147]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Common_Tree_Leaves in PCD3D_SM5, Default, SM5 (DDC key hash: D1C371746C21F1F4E3ED6C60717278576D0A5540), compiling. 
+[2022.05.04-12.04.28:939][147]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.28:940][147]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Common_Tree_Leaves in PCD3D_SM5, Default, SM5 (DDC key hash: 3220B1A02014169811D7A04A2C66325C6C7122FF), compiling. 
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.28:943][147]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.28:945][147]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Common_Tree_Leaves in PCD3D_SM5, Default, SM5 (DDC key hash: B2388E6E555B5D37350BA6AAAA785D5E1D4E1DCF), compiling. 
+[2022.05.04-12.04.28:948][147]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:006][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.05.04-12.04.29:006][147]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.05.04-12.04.29:006][147]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:024][148]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_262 in PCD3D_SM5, Default, SM5 (DDC key hash: 9ACE0852504ED67F116D0061BBE2AA70AB6F9B42), compiling. 
+[2022.05.04-12.04.29:027][148]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:029][148]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_262 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CA95C57E7FEDD5EFFFFBF4DCB89EE3602CB15CA), compiling. 
+[2022.05.04-12.04.29:032][148]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:352][152]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Texture_Atlas in PCD3D_SM5, Default, SM5 (DDC key hash: AB888D9B6E31D2AA2437F16923E2A8D726AC3A92), compiling. 
+[2022.05.04-12.04.29:356][152]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:358][152]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Texture_Atlas in PCD3D_SM5, Default, SM5 (DDC key hash: 0C46BA29B43C327D2A1955680900B6131065AFDD), compiling. 
+[2022.05.04-12.04.29:363][152]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:393][153]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: FEA04AB565128D05A6DDA5319392B692DD426648), compiling. 
+[2022.05.04-12.04.29:398][153]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.29:400][153]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: CF30D3ABA9070F4371D04FB7780D20D460F5D2A0), compiling. 
+[2022.05.04-12.04.29:405][153]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Total job queries 1431, among them cache hits 833 (58.21%)
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: Tracking 484 distinct input hashes that result in 363 distinct outputs (75.00%)
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.05.04-12.04.30:659][154]LogShaderCompilers: Display: ================================================
+[2022.05.04-12.04.32:980][251]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.04.32:985][251]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.04.35:209][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.04-12.04.35:887][377]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_3B_TwoSided2)
+[2022.05.04-12.04.51:058][434]MapCheck: New page: Map Check
+[2022.05.04-12.04.52:288][434]LogSlate: Window 'Message' being destroyed
+[2022.05.04-12.04.52:291][434]Message dialog closed, result: Yes, title: Message, text: The following levels are hidden:
+
+    /Game/SideScrollerBP/Maps/TavernBlockout
+
+These levels will not be rebuilt. Leaving them hidden may invalidate what is built in other levels.
+
+Continue with build?
+(Yes All will show all hidden levels and continue with the build)
+[2022.05.04-12.04.52:294][434]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.04-12.04.52:294][434]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:04:52
+[2022.05.04-12.04.52:312][434]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.05.04-12.04.52:313][434]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.52:313][434]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.52:313][434]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.52:313][434]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.52:313][434]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.04.52:314][434]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 20,161ms to complete.
+[2022.05.04-12.04.52:317][434]LogEditorBuildUtils: Build time 0:01
+[2022.05.04-12.05.06:509][241]Job is a success!
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          0: 8.7% covering 100.0% of volume
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          1: 34.8% covering 6.2% of volume
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          2: 56.5% covering 0.2% of volume
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          SideScrollerExampleMap 			 16 bricks 	 69.6% (Persistent Level)
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          TavernPart2 			 3 bricks 	 13.0%
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          BridgeOutside 			 1 bricks 	 4.3%
+[2022.05.04-12.05.06:645][242]LogVolumetricLightmapImport:          EndHoue 			 3 bricks 	 13.0%
+[2022.05.04-12.05.07:827][242]LightingResults: Warning: PointLight3_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.04-12.05.07:827][242]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 4096X4096)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 4096X4096)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 2048X2048)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 512X512)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 128X128)
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 256X256)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 256X256)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 64X64)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 64X64)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.05.09:198][242]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 128X128)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X64)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X256)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X256)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.05.04-12.05.09:400][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.05.04-12.05.09:851][242]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 2048X2048)
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: SideScrollerExampleMap_BuiltData storing lightmap data for 23 meshes in 3 LightmapResourceClusters (7.7 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: OutsideBackground_BuiltData storing lightmap data for 108 meshes in 3 LightmapResourceClusters (36.0 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: TavernForgroundLevel_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: TavernPart2_BuiltData storing lightmap data for 133 meshes in 2 LightmapResourceClusters (66.5 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: BridgeOutside_BuiltData storing lightmap data for 164 meshes in 4 LightmapResourceClusters (41.0 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: TavernBackgroundLevel_BuiltData storing lightmap data for 75 meshes in 3 LightmapResourceClusters (25.0 Meshes per cluster).
+[2022.05.04-12.05.09:886][242]LogStaticLightingSystem: EndHoue_BuiltData storing lightmap data for 54 meshes in 1 LightmapResourceClusters (54.0 Meshes per cluster).
+[2022.05.04-12.05.09:888][242]Lightmass on DESKTOP-T44H7TM: 33.9 sec total, 444 ms importing, 174 ms setup, 3.63 sec photons, 29.6 sec processing, 0 ms extra exporting [1760/1760 mappings]. Threads: 5:26 min total, 4:07 min processing.
+[2022.05.04-12.05.09:897][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.04-12.05.09:979][242]LogStaticLightingSystem: Illumination: 50.3 sec (1.37 sec encoding lightmaps, 654 ms encoding shadowmaps)
+[2022.05.04-12.05.09:979][242]LogStaticLightingSystem: Lightmap texture memory:  49.2 MB (48.2 MB streaming, 1.0 MB non-streaming), 24 textures
+[2022.05.04-12.05.09:979][242]LogStaticLightingSystem: Shadowmap texture memory: 35.7 MB (35.4 MB streaming, 0.3 MB non-streaming), 9 textures
+[2022.05.04-12.05.10:368][242]DumpUnbuiltLightIteractions
+[2022.05.04-12.05.10:368][242]Lights with unbuilt interactions: 0
+[2022.05.04-12.05.10:368][242]
+[2022.05.04-12.05.10:368][242]Primitives with unbuilt interactions: 0
+[2022.05.04-12.05.10:466][242]LogTexture: Display: Building textures: NewReflectionComponentTexture81DB832447F33B33790BD3A8C62A6AE8 (BGRA8, 128X128)
+[2022.05.04-12.05.10:526][243]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.04-12.05.10:526][243]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:05:10
+[2022.05.04-12.05.10:528][243]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.05.10:528][243]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.05.10:528][243]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.05.10:528][243]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.05.10:528][243]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.05.10:528][243]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 2,418ms to complete.
+[2022.05.04-12.05.24:150][530]Cmd: DELETE
+[2022.05.04-12.05.24:150][530]Cmd: ACTOR DELETE
+[2022.05.04-12.05.24:170][530]LogEditorActor: Deleted Actor: PointLight
+[2022.05.04-12.05.24:175][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.04-12.05.24:181][530]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.05.04-12.05.51:156][731]MapCheck: New page: Map Check
+[2022.05.04-12.05.52:538][731]LogSlate: Window 'Message' being destroyed
+[2022.05.04-12.05.52:542][731]Message dialog closed, result: Yes, title: Message, text: The following levels are hidden:
+
+    /Game/SideScrollerBP/Maps/TavernBlockout
+
+These levels will not be rebuilt. Leaving them hidden may invalidate what is built in other levels.
+
+Continue with build?
+(Yes All will show all hidden levels and continue with the build)
+[2022.05.04-12.05.52:544][731]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.04-12.05.52:544][731]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.04-12.05.52:602][731]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:602][731]LogWorld: UWorld::CleanupWorld for TavernBlockout, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:602][731]LogWorld: UWorld::CleanupWorld for OutsideBackground, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:603][731]LogWorld: UWorld::CleanupWorld for TavernForgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:603][731]LogWorld: UWorld::CleanupWorld for TavernPart2, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:603][731]LogWorld: UWorld::CleanupWorld for BridgeOutside, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:603][731]LogWorld: UWorld::CleanupWorld for TavernBackgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:603][731]LogWorld: UWorld::CleanupWorld for EndHoue, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.05.52:675][731]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.05.04-12.05.52:675][731]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.05.04-12.05.52:675][731]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.05.04-12.05.52:683][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.04-12.05.52:757][731]LogLevel: Display: Export Material TexCoord Scales took 0.070 seconds.
+[2022.05.04-12.05.52:762][731]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.05.04-12.05.52:767][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-12.05.52:769][731]LightingResults: New page: Lighting Build - 4 May 2022, 16:05:52
+[2022.05.04-12.05.58:562][731]LogSlate: Window 'Rebuild Lighting - Warning' being destroyed
+[2022.05.04-12.05.58:572][731]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.05.58:572][731]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.05.58:574][731]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.04-12.05.58:577][731]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.04-12.05.58:577][731]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.04-12.05.58:577][731]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.04-12.05.58:577][731]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26416
+[2022.05.04-12.06.03:155][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.04-12.06.03:155][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.04-12.06.03:155][731]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.04-12.06.03:155][731]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.04-12.06.03:155][731]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.04-12.06.03:217][731]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.04-12.06.03:217][731]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:06:03
+[2022.05.04-12.06.03:218][731]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.05.04-12.06.03:219][731]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.03:219][731]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.03:219][731]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.03:219][731]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.03:219][731]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.03:219][731]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 2,198ms to complete.
+[2022.05.04-12.06.03:221][731]LogEditorBuildUtils: Build time 0:12
+[2022.05.04-12.06.03:394][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-12.06.33:390][131]Job is a success!
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          0: 8.3% covering 100.0% of volume
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          1: 33.3% covering 6.2% of volume
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          2: 58.3% covering 0.2% of volume
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          SideScrollerExampleMap 			 16 bricks 	 66.7% (Persistent Level)
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          TavernPart2 			 3 bricks 	 12.5%
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          TavernBackgroundLevel 			 1 bricks 	 4.2%
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          BridgeOutside 			 1 bricks 	 4.2%
+[2022.05.04-12.06.33:538][133]LogVolumetricLightmapImport:          EndHoue 			 3 bricks 	 12.5%
+[2022.05.04-12.06.34:643][133]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 4096X4096)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 4096X4096)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 512X512)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 512X512)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 128X128)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 256X256)
+[2022.05.04-12.06.35:931][133]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 256X256)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 64X64)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 64X64)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.06.35:931][133]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 128X128)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X64)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 128X256)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 128X256)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.05.04-12.06.36:131][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.05.04-12.06.36:545][133]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 2048X2048)
+[2022.05.04-12.06.36:546][133]LogStaticLightingSystem: SideScrollerExampleMap_BuiltData storing lightmap data for 23 meshes in 3 LightmapResourceClusters (7.7 Meshes per cluster).
+[2022.05.04-12.06.36:546][133]LogStaticLightingSystem: OutsideBackground_BuiltData storing lightmap data for 108 meshes in 3 LightmapResourceClusters (36.0 Meshes per cluster).
+[2022.05.04-12.06.36:546][133]LogStaticLightingSystem: TavernForgroundLevel_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2022.05.04-12.06.36:546][133]LogStaticLightingSystem: TavernPart2_BuiltData storing lightmap data for 133 meshes in 2 LightmapResourceClusters (66.5 Meshes per cluster).
+[2022.05.04-12.06.36:547][133]LogStaticLightingSystem: BridgeOutside_BuiltData storing lightmap data for 164 meshes in 4 LightmapResourceClusters (41.0 Meshes per cluster).
+[2022.05.04-12.06.36:547][133]LogStaticLightingSystem: TavernBackgroundLevel_BuiltData storing lightmap data for 75 meshes in 3 LightmapResourceClusters (25.0 Meshes per cluster).
+[2022.05.04-12.06.36:547][133]LogStaticLightingSystem: EndHoue_BuiltData storing lightmap data for 54 meshes in 1 LightmapResourceClusters (54.0 Meshes per cluster).
+[2022.05.04-12.06.36:558][133]Lightmass on DESKTOP-T44H7TM: 32.7 sec total, 361 ms importing, 174 ms setup, 3.42 sec photons, 28.7 sec processing, 0 ms extra exporting [1760/1760 mappings]. Threads: 5:15 min total, 4:00 min processing.
+[2022.05.04-12.06.36:583][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.04-12.06.36:638][133]LogStaticLightingSystem: Illumination: 43.8 sec (1.28 sec encoding lightmaps, 596 ms encoding shadowmaps)
+[2022.05.04-12.06.36:638][133]LogStaticLightingSystem: Lightmap texture memory:  49.2 MB (48.2 MB streaming, 1.0 MB non-streaming), 24 textures
+[2022.05.04-12.06.36:638][133]LogStaticLightingSystem: Shadowmap texture memory: 35.7 MB (35.4 MB streaming, 0.3 MB non-streaming), 9 textures
+[2022.05.04-12.06.37:179][133]DumpUnbuiltLightIteractions
+[2022.05.04-12.06.37:179][133]Lights with unbuilt interactions: 0
+[2022.05.04-12.06.37:179][133]
+[2022.05.04-12.06.37:179][133]Primitives with unbuilt interactions: 0
+[2022.05.04-12.06.37:268][133]LogTexture: Display: Building textures: NewReflectionComponentTexture81DB832447F33B33790BD3A8C62A6AE8 (BGRA8, 128X128)
+[2022.05.04-12.06.37:318][134]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.04-12.06.37:318][134]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:06:37
+[2022.05.04-12.06.37:320][134]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.37:320][134]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.37:320][134]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.37:320][134]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.37:320][134]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.06.37:321][134]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 2,135ms to complete.
+[2022.05.04-12.06.46:164][797]Cmd: DELETE
+[2022.05.04-12.06.46:164][797]Cmd: ACTOR DELETE
+[2022.05.04-12.06.46:183][797]LogEditorActor: Deleted Actor: PointLight
+[2022.05.04-12.06.46:188][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-12.06.46:197][797]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.05.04-12.06.57:436][888]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.06.57:448][888]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.07.01:156][259]MapCheck: New page: Map Check
+[2022.05.04-12.07.02:474][259]LogSlate: Window 'Message' being destroyed
+[2022.05.04-12.07.02:477][259]Message dialog closed, result: Yes, title: Message, text: The following levels are hidden:
+
+    /Game/SideScrollerBP/Maps/TavernBlockout
+
+These levels will not be rebuilt. Leaving them hidden may invalidate what is built in other levels.
+
+Continue with build?
+(Yes All will show all hidden levels and continue with the build)
+[2022.05.04-12.07.02:481][259]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.04-12.07.02:481][259]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.04-12.07.02:536][259]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for TavernBlockout, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for OutsideBackground, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for TavernForgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for TavernPart2, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for BridgeOutside, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for TavernBackgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:537][259]LogWorld: UWorld::CleanupWorld for EndHoue, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.07.02:607][259]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.05.04-12.07.02:607][259]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.05.04-12.07.02:607][259]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.05.04-12.07.02:617][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.04-12.07.02:681][259]LogLevel: Display: Export Material TexCoord Scales took 0.059 seconds.
+[2022.05.04-12.07.02:686][259]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.05.04-12.07.02:692][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.04-12.07.02:693][259]LightingResults: New page: Lighting Build - 4 May 2022, 16:07:02
+[2022.05.04-12.07.06:776][259]LogSlate: Window 'Rebuild Lighting - Warning' being destroyed
+[2022.05.04-12.07.06:785][259]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.07.06:785][259]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.07.06:787][259]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.04-12.07.06:790][259]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.04-12.07.06:790][259]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.04-12.07.06:791][259]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.04-12.07.06:791][259]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26416
+[2022.05.04-12.07.11:354][259]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.04-12.07.11:354][259]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.04-12.07.11:354][259]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.04-12.07.11:354][259]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.04-12.07.11:354][259]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.04-12.07.11:419][259]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.04-12.07.11:419][259]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:07:11
+[2022.05.04-12.07.11:421][259]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.11:421][259]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.11:421][259]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.11:421][259]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.11:421][259]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.11:422][259]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 2,59ms to complete.
+[2022.05.04-12.07.11:424][259]LogEditorBuildUtils: Build time 0:10
+[2022.05.04-12.07.11:676][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.04-12.07.14:276][411]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Shared/Editor/MapErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2022.05.04-12.07.37:180][896]Job is a success!
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          0: 8.7% covering 100.0% of volume
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          1: 34.8% covering 6.2% of volume
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          2: 56.5% covering 0.2% of volume
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          SideScrollerExampleMap 			 16 bricks 	 69.6% (Persistent Level)
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          TavernPart2 			 3 bricks 	 13.0%
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          BridgeOutside 			 1 bricks 	 4.3%
+[2022.05.04-12.07.37:648][897]LogVolumetricLightmapImport:          EndHoue 			 3 bricks 	 13.0%
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 4096X4096)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 4096X4096)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 2048X2048)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 512X512)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 128X128)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 256X256)
+[2022.05.04-12.07.39:961][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.07.39:961][897]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 256X256)
+[2022.05.04-12.07.39:962][897]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 64X64)
+[2022.05.04-12.07.39:962][897]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 64X64)
+[2022.05.04-12.07.39:962][897]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.07.39:962][897]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 128X128)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 64X64)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 128X64)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X256)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2022.05.04-12.07.40:161][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.05.04-12.07.40:572][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 2048X2048)
+[2022.05.04-12.07.40:594][897]Lightmass on DESKTOP-T44H7TM: 28.5 sec total, 361 ms importing, 232 ms setup, 3.44 sec photons, 24.4 sec processing, 0 ms extra exporting [1760/1760 mappings]. Threads: 4:29 min total, 3:17 min processing.
+[2022.05.04-12.07.40:594][897]LogStaticLightingSystem: SideScrollerExampleMap_BuiltData storing lightmap data for 23 meshes in 3 LightmapResourceClusters (7.7 Meshes per cluster).
+[2022.05.04-12.07.40:594][897]LogStaticLightingSystem: OutsideBackground_BuiltData storing lightmap data for 108 meshes in 3 LightmapResourceClusters (36.0 Meshes per cluster).
+[2022.05.04-12.07.40:594][897]LogStaticLightingSystem: TavernForgroundLevel_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2022.05.04-12.07.40:596][897]LogStaticLightingSystem: TavernPart2_BuiltData storing lightmap data for 133 meshes in 4 LightmapResourceClusters (33.2 Meshes per cluster).
+[2022.05.04-12.07.40:596][897]LogStaticLightingSystem: BridgeOutside_BuiltData storing lightmap data for 164 meshes in 4 LightmapResourceClusters (41.0 Meshes per cluster).
+[2022.05.04-12.07.40:596][897]LogStaticLightingSystem: TavernBackgroundLevel_BuiltData storing lightmap data for 75 meshes in 3 LightmapResourceClusters (25.0 Meshes per cluster).
+[2022.05.04-12.07.40:596][897]LogStaticLightingSystem: EndHoue_BuiltData storing lightmap data for 54 meshes in 1 LightmapResourceClusters (54.0 Meshes per cluster).
+[2022.05.04-12.07.40:635][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.04-12.07.40:712][897]LogStaticLightingSystem: Illumination: 37.6 sec (1.25 sec encoding lightmaps, 613 ms encoding shadowmaps)
+[2022.05.04-12.07.40:712][897]LogStaticLightingSystem: Lightmap texture memory:  49.2 MB (48.2 MB streaming, 1.0 MB non-streaming), 24 textures
+[2022.05.04-12.07.40:712][897]LogStaticLightingSystem: Shadowmap texture memory: 32.1 MB (32.1 MB streaming, 0.0 MB non-streaming), 7 textures
+[2022.05.04-12.07.41:377][897]DumpUnbuiltLightIteractions
+[2022.05.04-12.07.41:377][897]Lights with unbuilt interactions: 0
+[2022.05.04-12.07.41:377][897]
+[2022.05.04-12.07.41:377][897]Primitives with unbuilt interactions: 0
+[2022.05.04-12.07.41:407][897]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.04-12.07.41:407][897]LogShaderCompilers: Display: Total job queries 1431, among them cache hits 833 (58.21%)
+[2022.05.04-12.07.41:407][897]LogShaderCompilers: Display: Tracking 484 distinct input hashes that result in 363 distinct outputs (75.00%)
+[2022.05.04-12.07.41:407][897]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.05.04-12.07.41:407][897]LogShaderCompilers: Display: ================================================
+[2022.05.04-12.07.41:462][897]LogTexture: Display: Building textures: NewReflectionComponentTexture81DB832447F33B33790BD3A8C62A6AE8 (BGRA8, 128X128)
+[2022.05.04-12.07.41:504][898]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.04-12.07.41:505][898]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:07:41
+[2022.05.04-12.07.41:506][898]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.41:506][898]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.41:506][898]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.41:506][898]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.41:506][898]MapCheck: Warning: InstancedFoliageActor_2 Static mesh actor has NULL StaticMesh property 
+[2022.05.04-12.07.41:507][898]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 2,325ms to complete.
+[2022.05.04-12.08.07:012][773]Cmd: DELETE
+[2022.05.04-12.08.07:012][773]Cmd: ACTOR DELETE
+[2022.05.04-12.08.07:030][773]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2022.05.04-12.08.07:035][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.04-12.08.07:042][773]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.05.04-12.08.08:682][969]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.11:426][295]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.11:653][322]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.16:164][847]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.16:364][871]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.17:865][ 51]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.18:048][ 73]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.18:581][137]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.18:789][162]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (InstancedFoliageActor2)
+[2022.05.04-12.08.20:139][324]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.08.20:144][324]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.08.22:398][583]MapCheck: New page: Map Check
+[2022.05.04-12.08.25:028][583]LogSlate: Window 'Message' being destroyed
+[2022.05.04-12.08.25:032][583]Message dialog closed, result: Yes, title: Message, text: The following levels are hidden:
+
+    /Game/SideScrollerBP/Maps/TavernBlockout
+
+These levels will not be rebuilt. Leaving them hidden may invalidate what is built in other levels.
+
+Continue with build?
+(Yes All will show all hidden levels and continue with the build)
+[2022.05.04-12.08.25:034][583]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.04-12.08.25:034][583]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for TavernBlockout, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for OutsideBackground, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for TavernForgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for TavernPart2, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for BridgeOutside, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for TavernBackgroundLevel, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:090][583]LogWorld: UWorld::CleanupWorld for EndHoue, bSessionEnded=true, bCleanupResources=false
+[2022.05.04-12.08.25:168][583]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.05.04-12.08.25:168][583]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.05.04-12.08.25:168][583]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.05.04-12.08.25:178][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.04-12.08.25:283][583]LogLevel: Display: Export Material TexCoord Scales took 0.101 seconds.
+[2022.05.04-12.08.25:288][583]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.05.04-12.08.25:293][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-12.08.25:295][583]LightingResults: New page: Lighting Build - 4 May 2022, 16:08:25
+[2022.05.04-12.08.25:296][583]LogDialogs: Warning: Suppressed: The following levels will not have the lighting rebuilt because of your selected lighting build options: /Game/SideScrollerBP/Maps/TavernBlockout
+[2022.05.04-12.08.25:300][583]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.08.25:300][583]LightingResults: Warning: InstancedFoliageActor_6 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.05.04-12.08.25:302][583]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.04-12.08.25:304][583]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.04-12.08.25:304][583]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.04-12.08.25:305][583]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.04-12.08.25:305][583]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26416
+[2022.05.04-12.08.29:843][583]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.04-12.08.29:843][583]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.04-12.08.29:843][583]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.04-12.08.29:843][583]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.04-12.08.29:843][583]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.04-12.08.29:906][583]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.04-12.08.29:906][583]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:08:29
+[2022.05.04-12.08.29:908][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,066ms to complete.
+[2022.05.04-12.08.29:910][583]LogEditorBuildUtils: Build time 0:07
+[2022.05.04-12.08.30:051][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.04-12.08.55:151][ 48]Job is a success!
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          0: 8.7% covering 100.0% of volume
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          1: 34.8% covering 6.2% of volume
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          2: 56.5% covering 0.2% of volume
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          SideScrollerExampleMap 			 16 bricks 	 69.6% (Persistent Level)
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          TavernPart2 			 3 bricks 	 13.0%
+[2022.05.04-12.08.55:615][ 49]LogVolumetricLightmapImport:          EndHoue 			 4 bricks 	 17.4%
+[2022.05.04-12.08.58:001][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 4096X4096)
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:001][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 4096X4096)
+[2022.05.04-12.08.58:001][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:001][ 49]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 512X512)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 512X512)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 512X512)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 128X128)
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 256X256)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 256X256)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 64X64)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 64X64)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 128X128)
+[2022.05.04-12.08.58:002][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 128X128)
+[2022.05.04-12.08.58:201][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 64X64)
+[2022.05.04-12.08.58:202][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 128X64)
+[2022.05.04-12.08.58:202][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2022.05.04-12.08.58:202][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X256)
+[2022.05.04-12.08.58:202][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2022.05.04-12.08.58:202][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2022.05.04-12.08.58:610][ 49]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 2048X2048)
+[2022.05.04-12.08.58:667][ 49]Lightmass on DESKTOP-T44H7TM: 28.2 sec total, 385 ms importing, 215 ms setup, 3.26 sec photons, 24.3 sec processing, 0 ms extra exporting [1759/1759 mappings]. Threads: 4:27 min total, 3:13 min processing.
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: SideScrollerExampleMap_BuiltData storing lightmap data for 23 meshes in 3 LightmapResourceClusters (7.7 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: OutsideBackground_BuiltData storing lightmap data for 108 meshes in 3 LightmapResourceClusters (36.0 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: TavernForgroundLevel_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: TavernPart2_BuiltData storing lightmap data for 132 meshes in 4 LightmapResourceClusters (33.0 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: BridgeOutside_BuiltData storing lightmap data for 164 meshes in 4 LightmapResourceClusters (41.0 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: TavernBackgroundLevel_BuiltData storing lightmap data for 75 meshes in 3 LightmapResourceClusters (25.0 Meshes per cluster).
+[2022.05.04-12.08.58:708][ 49]LogStaticLightingSystem: EndHoue_BuiltData storing lightmap data for 54 meshes in 1 LightmapResourceClusters (54.0 Meshes per cluster).
+[2022.05.04-12.08.58:743][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.04-12.08.58:798][ 49]LogStaticLightingSystem: Illumination: 33.1 sec (1.31 sec encoding lightmaps, 610 ms encoding shadowmaps)
+[2022.05.04-12.08.58:798][ 49]LogStaticLightingSystem: Lightmap texture memory:  49.2 MB (48.2 MB streaming, 1.0 MB non-streaming), 24 textures
+[2022.05.04-12.08.58:798][ 49]LogStaticLightingSystem: Shadowmap texture memory: 32.1 MB (32.1 MB streaming, 0.0 MB non-streaming), 7 textures
+[2022.05.04-12.09.03:866][ 49]DumpUnbuiltLightIteractions
+[2022.05.04-12.09.03:866][ 49]Lights with unbuilt interactions: 0
+[2022.05.04-12.09.03:866][ 49]
+[2022.05.04-12.09.03:866][ 49]Primitives with unbuilt interactions: 0
+[2022.05.04-12.09.03:935][ 49]LogTexture: Display: Building textures: NewReflectionComponentTexture81DB832447F33B33790BD3A8C62A6AE8 (BGRA8, 128X128)
+[2022.05.04-12.09.03:983][ 50]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.04-12.09.03:984][ 50]MapCheck: New page: SideScrollerExampleMap - 4 May 2022, 16:09:03
+[2022.05.04-12.09.03:986][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,086ms to complete.
+[2022.05.04-12.09.14:221][  4]Cmd: TRANSACTION UNDO
+[2022.05.04-12.09.14:222][  4]LogEditorTransaction: Undo Move Actors
+[2022.05.04-12.09.18:160][255]Cmd: TRANSACTION UNDO
+[2022.05.04-12.09.18:160][255]LogEditorTransaction: Undo Move Actors
+[2022.05.04-12.09.19:233][316]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.09.19:249][316]LogSlate: Window 'Message Log' being destroyed
+[2022.05.04-12.09.23:845][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor70)
+[2022.05.04-12.09.25:044][743]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-12.09.25:049][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-12.09.25:049][743]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 16:09:25)
+[2022.05.04-12.09.25:073][743]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.09.25:084][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011089s)
+[2022.05.04-12.09.25:085][743]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.09.25:085][743]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2022.05.04-12.09.25:085][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012438s)
+[2022.05.04-12.09.25:092][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.04-12.09.25:099][743]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-12.09.25:099][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-12.09.25:099][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-12.09.25:099][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-12.09.25:099][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-12.09.25:099][743]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-12.09.25:102][743]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-12.09.25:102][743]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-12.09.25:113][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-12.09.25:113][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-12.09.25:114][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-12.09.25:114][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-12.09.25:114][743]LogInit: FAudioDevice initialized.
+[2022.05.04-12.09.25:114][743]LogAudio: Display: Audio Device (ID: 37) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.09.25:124][743]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.09.25:219][743]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.09.25
+[2022.05.04-12.09.25:221][743]LogWorld: Bringing up level for play took: 0.002122
+[2022.05.04-12.09.25:221][743]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.05.04-12.09.25:225][743]PIE: Server logged in
+[2022.05.04-12.09.25:225][743]PIE: Play in editor total start time 0,177 seconds.
+[2022.05.04-12.10.13:551][934]LogNet: Browse: /Game/SideScrollerBP/Maps/BridgeInside
+[2022.05.04-12.10.13:552][934]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/BridgeInside
+[2022.05.04-12.10.13:552][934]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.10.13:552][934]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:554][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:554][934]LogWorld: UWorld::CleanupWorld for EndHoue, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:554][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:554][934]LogWorld: UWorld::CleanupWorld for BridgeOutside, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:554][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:554][934]LogWorld: UWorld::CleanupWorld for TavernPart2, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:554][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:554][934]LogWorld: UWorld::CleanupWorld for TavernForgroundLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:554][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:555][934]LogWorld: UWorld::CleanupWorld for OutsideBackground, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:555][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:555][934]LogWorld: UWorld::CleanupWorld for TavernBackgroundLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.10.13:555][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.10.13:589][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.10.13:593][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.04-12.10.13:604][934]LogAudio: Display: Audio Device (ID: 37) registered with world 'BridgeInside'.
+[2022.05.04-12.10.13:605][934]LogAIModule: Creating AISystem for world BridgeInside
+[2022.05.04-12.10.13:605][934]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.10.13:605][934]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/UEDPIE_0_BridgeControlMeshes) is flushing async loading
+[2022.05.04-12.10.13:605][934]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.04-12.10.13:636][934]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside.BridgeInside up for play (max tick rate 0) at 2022.05.04-14.10.13
+[2022.05.04-12.10.13:636][934]LogWorld: Bringing up level for play took: 0.001537
+[2022.05.04-12.10.13:638][934]LogLoad: Took 0.085760 seconds to LoadMap(/Game/SideScrollerBP/Maps/BridgeInside)
+[2022.05.04-12.10.36:622][682]LogBlueprintUserMessages: [BP_lever_4] Key picked up
+[2022.05.04-12.11.16:940][520]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.05.04-12.11.16:940][520]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.05.04-12.11.16:940][520]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_BridgeInside
+[2022.05.04-12.11.16:941][520]LogWorld: UWorld::CleanupWorld for BridgeInside, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.11.16:941][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.11.16:941][520]LogWorld: UWorld::CleanupWorld for BridgeControlMeshes, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.11.16:941][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.11.16:978][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.11.16:980][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.04-12.11.16:985][520]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.11.16:997][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011175s)
+[2022.05.04-12.11.16:998][520]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.11.16:998][520]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2022.05.04-12.11.16:998][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012411s)
+[2022.05.04-12.11.16:998][520]LogAudio: Display: Audio Device (ID: 37) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.11.16:998][520]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.11.17:086][520]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.11.17
+[2022.05.04-12.11.17:087][520]LogWorld: Bringing up level for play took: 0.001465
+[2022.05.04-12.11.17:089][520]LogLoad: Took 0.149269 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2022.05.04-12.11.45:849][336]Cmd: SELECT NONE
+[2022.05.04-12.11.51:445][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.11.51:445][465]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.11.51:447][465]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.11.51:448][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.11.51:456][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-12.11.51:469][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.11.51:476][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.11.51:476][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.11.51:477][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.11.51:479][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.11.51:483][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.04-12.11.51:516][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.04-12.11.51:551][467]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.05.04-12.12.54:609][248]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor64)
+[2022.05.04-12.12.55:584][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-12.12.55:584][335]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 16:12:55)
+[2022.05.04-12.12.55:613][335]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.12.55:624][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010703s)
+[2022.05.04-12.12.55:625][335]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.12.55:625][335]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2022.05.04-12.12.55:625][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011814s)
+[2022.05.04-12.12.55:631][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.04-12.12.55:640][335]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-12.12.55:640][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-12.12.55:640][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-12.12.55:640][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-12.12.55:641][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-12.12.55:641][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-12.12.55:641][335]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-12.12.55:643][335]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-12.12.55:643][335]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-12.12.55:654][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-12.12.55:654][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-12.12.55:655][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-12.12.55:655][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-12.12.55:655][335]LogInit: FAudioDevice initialized.
+[2022.05.04-12.12.55:655][335]LogAudio: Display: Audio Device (ID: 38) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.12.55:666][335]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.12.55:760][335]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.12.55
+[2022.05.04-12.12.55:761][335]LogWorld: Bringing up level for play took: 0.001516
+[2022.05.04-12.12.55:761][335]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2022.05.04-12.12.55:764][335]PIE: Server logged in
+[2022.05.04-12.12.55:764][335]PIE: Play in editor total start time 0,181 seconds.
+[2022.05.04-12.13.00:136][779]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=1.60 Y=-7665.31 Z=-160.87 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:SM_Door_61 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.05.04-12.13.00:925][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.00:925][864]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.00:927][864]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.13.00:927][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.00:933][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-12.13.00:944][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.00:951][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.13.00:951][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.00:952][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.00:954][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.00:958][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.04-12.13.00:988][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-12.13.01:019][866]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.05.04-12.13.01:658][931]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-12.13.01:662][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-12.13.01:662][931]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 16:13:01)
+[2022.05.04-12.13.01:694][931]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.01:704][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010617s)
+[2022.05.04-12.13.01:705][931]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.13.01:705][931]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2022.05.04-12.13.01:705][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011707s)
+[2022.05.04-12.13.01:712][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.04-12.13.01:714][931]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-12.13.01:714][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-12.13.01:714][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-12.13.01:714][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-12.13.01:714][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-12.13.01:714][931]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-12.13.01:717][931]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-12.13.01:717][931]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-12.13.01:727][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-12.13.01:727][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-12.13.01:728][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-12.13.01:728][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-12.13.01:728][931]LogInit: FAudioDevice initialized.
+[2022.05.04-12.13.01:728][931]LogAudio: Display: Audio Device (ID: 39) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.13.01:736][931]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.13.01:829][931]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.13.01
+[2022.05.04-12.13.01:829][931]LogWorld: Bringing up level for play took: 0.001621
+[2022.05.04-12.13.01:830][931]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2022.05.04-12.13.01:832][931]PIE: Server logged in
+[2022.05.04-12.13.01:833][931]PIE: Play in editor total start time 0,171 seconds.
+[2022.05.04-12.13.10:045][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.10:045][903]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.10:047][903]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.13.10:047][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.10:053][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-12.13.10:065][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.10:071][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.10:071][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.10:072][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.10:079][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.04-12.13.10:103][904]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.05.04-12.13.10:109][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-12.13.12:837][119]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.05.04-12.13.13:724][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-12.13.13:724][172]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 16:13:13)
+[2022.05.04-12.13.13:724][172]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.13:734][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010513s)
+[2022.05.04-12.13.13:735][172]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.13.13:735][172]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2022.05.04-12.13.13:735][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011840s)
+[2022.05.04-12.13.13:742][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.04-12.13.13:744][172]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-12.13.13:744][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-12.13.13:744][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-12.13.13:744][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-12.13.13:744][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-12.13.13:744][172]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-12.13.13:747][172]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-12.13.13:747][172]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-12.13.13:758][172]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-12.13.13:758][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-12.13.13:758][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-12.13.13:759][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-12.13.13:759][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-12.13.13:759][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-12.13.13:759][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-12.13.13:760][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-12.13.13:760][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-12.13.13:760][172]LogInit: FAudioDevice initialized.
+[2022.05.04-12.13.13:760][172]LogAudio: Display: Audio Device (ID: 40) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.13.13:770][172]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.13.13:859][172]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.13.13
+[2022.05.04-12.13.13:860][172]LogWorld: Bringing up level for play took: 0.001544
+[2022.05.04-12.13.13:860][172]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2022.05.04-12.13.13:863][172]PIE: Server logged in
+[2022.05.04-12.13.13:864][172]PIE: Play in editor total start time 0,14 seconds.
+[2022.05.04-12.13.16:314][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.16:314][438]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.16:317][438]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.13.16:317][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.16:327][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-12.13.16:335][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.16:341][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.13.16:341][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.16:342][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.16:344][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.16:348][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.04-12.13.16:376][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-12.13.16:410][440]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.05.04-12.13.17:505][529]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.05.04-12.13.18:645][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-12.13.18:645][609]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 16:13:18)
+[2022.05.04-12.13.18:645][609]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.18:656][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011267s)
+[2022.05.04-12.13.18:657][609]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-12.13.18:657][609]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2022.05.04-12.13.18:657][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012254s)
+[2022.05.04-12.13.18:663][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.05.04-12.13.18:665][609]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-12.13.18:665][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-12.13.18:665][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-12.13.18:665][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-12.13.18:665][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-12.13.18:665][609]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-12.13.18:668][609]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-12.13.18:668][609]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-12.13.18:678][609]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-12.13.18:678][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-12.13.18:679][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-12.13.18:679][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-12.13.18:679][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-12.13.18:679][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-12.13.18:679][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-12.13.18:680][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-12.13.18:680][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-12.13.18:680][609]LogInit: FAudioDevice initialized.
+[2022.05.04-12.13.18:680][609]LogAudio: Display: Audio Device (ID: 41) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-12.13.18:689][609]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-12.13.18:781][609]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-14.13.18
+[2022.05.04-12.13.18:781][609]LogWorld: Bringing up level for play took: 0.001625
+[2022.05.04-12.13.18:781][609]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2022.05.04-12.13.18:785][609]PIE: Server logged in
+[2022.05.04-12.13.18:785][609]PIE: Play in editor total start time 0,142 seconds.
+[2022.05.04-12.13.25:914][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.25:914][401]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-12.13.25:917][401]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-12.13.25:917][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.25:925][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-12.13.25:933][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-12.13.25:939][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-12.13.25:939][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.25:940][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-12.13.25:942][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-12.13.25:946][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.04-12.13.25:974][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.05.04-12.13.26:005][403]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2022.05.04-12.16.09:614][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-12.16.11:360][ 75]LogSlate: Window 'Save Content' being destroyed
+[2022.05.04-12.16.11:387][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-12.16.11:548][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeOutsideA788077E4DE06603BFB451A6D061ECCE.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/BridgeOutside.umap'
+[2022.05.04-12.16.11:549][ 75]LogFileHelpers: Saving map 'BridgeOutside' took 0.166
+[2022.05.04-12.16.11:837][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeOutside_BuiltData8328326040093750CE5EB9AD6F4A3E4C.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/BridgeOutside_BuiltData.uasset'
+[2022.05.04-12.16.11:843][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.04-12.16.11:856][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/EndHoue413E66F84AE9D16F29A2A0AEAF1DA133.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/EndHoue.umap'
+[2022.05.04-12.16.11:857][ 75]LogFileHelpers: Saving map 'EndHoue' took 0.019
+[2022.05.04-12.16.11:898][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/EndHoue_BuiltData43407206407E4AB85F6E27AD40A15E5A.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/EndHoue_BuiltData.uasset'
+[2022.05.04-12.16.11:903][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-12.16.11:931][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/OutsideBackgroundAFBCA40D4B66489E2C2F01A9395B3A66.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/OutsideBackground.umap'
+[2022.05.04-12.16.11:932][ 75]LogFileHelpers: Saving map 'OutsideBackground' took 0.034
+[2022.05.04-12.16.11:985][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/OutsideBackground_BuiltDataB61C6FAD45F2B9196DA6DFA0C06E92FC.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/OutsideBackground_BuiltData.uasset'
+[2022.05.04-12.16.11:991][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-12.16.12:016][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMap72B7B1C044F3BD0276F06AB891F549C1.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.05.04-12.16.12:021][ 75]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.036
+[2022.05.04-12.16.12:149][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMap_BuiltData53F9488B4386C82A4A60469A7C7EEE03.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.05.04-12.16.12:156][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-12.16.12:174][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel1DECF62C4C21A8E69B2C1FB9ABA7C0B8.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel.umap'
+[2022.05.04-12.16.12:175][ 75]LogFileHelpers: Saving map 'TavernBackgroundLevel' took 0.025
+[2022.05.04-12.16.12:248][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBackgroundLevel_BuiltData279108A6469D3149496FF3A8645A5250.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.uasset'
+[2022.05.04-12.16.12:254][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.04-12.16.12:270][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernBlockout3A91F32D49E36C0550C32DB790057119.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernBlockout.umap'
+[2022.05.04-12.16.12:271][ 75]LogFileHelpers: Saving map 'TavernBlockout' took 0.023
+[2022.05.04-12.16.12:277][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-12.16.12:279][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevelBC718BA0491753FD4EA7C684F14B1BF2.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel.umap'
+[2022.05.04-12.16.12:279][ 75]LogFileHelpers: Saving map 'TavernForgroundLevel' took 0.008
+[2022.05.04-12.16.12:296][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernForgroundLevel_BuiltDataADB91CC44DDBF7777788A6A2962D42A6.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernForgroundLevel_BuiltData.uasset'
+[2022.05.04-12.16.12:302][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-12.16.12:328][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernPart22403FBE04CF3806D507C8096745ED1E5.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernPart2.umap'
+[2022.05.04-12.16.12:328][ 75]LogFileHelpers: Saving map 'TavernPart2' took 0.031
+[2022.05.04-12.16.12:414][ 75]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernPart2_BuiltData7B2CB6224BE1FABD368937AD47C2C297.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernPart2_BuiltData.uasset'
+[2022.05.04-12.16.12:426][ 75]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernPart2.TavernPart2
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/OutsideBackground.OutsideBackground
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/BridgeOutside.BridgeOutside
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/EndHoue.EndHoue
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernForgroundLevel_BuiltData.TavernForgroundLevel_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/OutsideBackground_BuiltData.OutsideBackground_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernBackgroundLevel_BuiltData.TavernBackgroundLevel_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/EndHoue_BuiltData.EndHoue_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/BridgeOutside_BuiltData.BridgeOutside_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/TavernPart2_BuiltData.TavernPart2_BuiltData
+[2022.05.04-12.16.12:426][ 75]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData

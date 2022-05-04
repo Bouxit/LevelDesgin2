@@ -3995,3 +3995,1184 @@ Landscape
 [2022.05.04-09.22.21:774][613]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/OutsideBackground_Auto49059E4B34B74213F088116BCC8A2FC0C.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/Autosaves/Game/SideScrollerBP/Maps/OutsideBackground_Auto4.umap'
 [2022.05.04-09.22.21:775][613]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.208
 [2022.05.04-09.22.21:775][613]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Grass_D (OODLE_AutoDXT, 512X512)
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Common_Tree_Leaves_D (OODLE_AutoDXT, 512X512)
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Pine_Tree_Trunk_D (OODLE_AutoDXT, 1024X2048)
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Pine_Tree_Trunk_N (OODLE_BC5, 1024X2048)
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Pine_Tree_Trunk_ORM (OODLE_AutoDXT, 1024X2048)
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Common_Tree_03_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Common_Tree_03_D (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTexture: Display: Building textures: T_Common_Tree_03_N (OODLE_BC5, 2048X2048)
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.24:515][155]LogStaticMesh: Building static mesh SM_Common_Tree_03...
+[2022.05.04-09.25.24:571][155]LogStaticMesh: Built static mesh [0.06s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Common_Tree_03.SM_Common_Tree_03
+[2022.05.04-09.25.24:578][155]LogMaterial: Display: Missing cached shadermap for M_Tree_Trunk_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 04FF8321B53CA435E4963D45CA79B907C54E2AFA), compiling. 
+[2022.05.04-09.25.24:603][155]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2022.05.04-09.25.24:605][155]LogMaterial: Display: Missing cached shadermap for M_Foliage_Master in PCD3D_SM5, Default, SM5 (DDC key hash: AE1943582C8D2DBF4900A14D0449CFA76E375C91), compiling. 
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.25.24:664][155]LogShaderCompilers: Display: Submitted 110 shader compile jobs with 'Low' priority
+[2022.05.04-09.25.24:689][155]LogActorFactory: Actor Factory created SM_Common_Tree_03
+[2022.05.04-09.25.25:491][201]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.05.04-09.25.25:491][201]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.25:518][201]LogActorFactory: Actor Factory created SM_Common_Tree_03
+[2022.05.04-09.25.25:557][201]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.04-09.25.25:557][201]LogShaderCompilers: Display: Total job queries 682, among them cache hits 282 (41.35%)
+[2022.05.04-09.25.25:557][201]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 105 distinct outputs (77.78%)
+[2022.05.04-09.25.25:557][201]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.05.04-09.25.25:557][201]LogShaderCompilers: Display: ================================================
+[2022.05.04-09.25.26:162][217]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.05.04-09.25.26:162][217]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.27:175][251]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.05.04-09.25.27:175][251]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.27:280][256]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.05.04-09.25.27:280][256]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.27:451][265]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.05.04-09.25.27:451][265]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.27:800][283]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.05.04-09.25.27:800][283]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.27:942][290]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.05.04-09.25.27:942][290]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.04-09.25.28:034][295]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 102
+[2022.05.04-09.25.28:034][295]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:119][297]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 92
+[2022.05.04-09.25.28:119][297]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:164][298]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2022.05.04-09.25.28:164][298]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:319][302]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 72
+[2022.05.04-09.25.28:319][302]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:410][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 62
+[2022.05.04-09.25.28:410][304]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:610][309]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2022.05.04-09.25.28:610][309]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.28:875][314]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2022.05.04-09.25.28:875][314]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.29:264][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.05.04-09.25.29:264][329]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.31:146][397]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2022.05.04-09.25.31:146][397]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.31:654][409]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2022.05.04-09.25.31:654][409]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.32:127][429]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2022.05.04-09.25.32:127][429]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.32:305][434]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2022.05.04-09.25.32:305][434]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.32:663][451]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.05.04-09.25.32:663][451]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:117][451]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.05.04-09.25.33:117][451]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:117][451]LogTexture: Display: Building textures: T_Common_Tree_01_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.33:117][451]LogTexture: Display: Building textures: T_Common_Tree_01_D (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogTexture: Display: Building textures: T_Common_Tree_01_N (OODLE_BC5, 2048X2048)
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.33:117][451]LogStaticMesh: Building static mesh SM_Common_Tree_01...
+[2022.05.04-09.25.33:198][451]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.05.04-09.25.33:198][451]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:198][451]LogStaticMesh: Built static mesh [0.08s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Common_Tree_01.SM_Common_Tree_01
+[2022.05.04-09.25.33:271][451]LogActorFactory: Actor Factory created SM_Common_Tree_01
+[2022.05.04-09.25.33:276][451]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.05.04-09.25.33:276][451]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:498][458]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.05.04-09.25.33:498][458]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:531][459]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2022.05.04-09.25.33:531][459]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:561][460]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.05.04-09.25.33:561][460]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:891][469]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.05.04-09.25.33:891][469]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:909][469]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.05.04-09.25.33:909][469]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:929][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.05.04-09.25.33:929][470]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:952][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.05.04-09.25.33:952][471]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.33:964][471]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.05.04-09.25.33:964][471]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.04-09.25.36:665][602]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2022.05.04-09.25.36:670][602]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2022.05.04-09.25.36:671][602]LogActorFactory: Actor Factory created SM_Common_Tree_01
+[2022.05.04-09.25.39:605][931]LogActorFactory: Actor Factory created SM_Common_Tree_03
+[2022.05.04-09.25.40:110][982]LogActorFactory: Actor Factory created SM_Common_Tree_03
+[2022.05.04-09.25.41:286][118]LogStaticMesh: Building static mesh SM_Common_Tree_09...
+[2022.05.04-09.25.41:329][118]LogStaticMesh: Built static mesh [0.04s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Common_Tree_09.SM_Common_Tree_09
+[2022.05.04-09.25.41:608][118]LogTexture: Display: Building textures: T_Common_Tree_09_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.41:608][118]LogTexture: Display: Building textures: T_Common_Tree_09_D (OODLE_AutoDXT, 2048X2048)
+[2022.05.04-09.25.41:608][118]LogTexture: Display: Building textures: T_Common_Tree_09_N (OODLE_BC5, 2048X2048)
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.41:608][118]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.04-09.25.41:618][118]LogActorFactory: Actor Factory created SM_Common_Tree_09
+[2022.05.04-09.25.42:722][240]LogActorFactory: Actor Factory created SM_Common_Tree_09
+[2022.05.04-09.25.53:742][530]LogStaticMesh: Building static mesh SM_Common_Tree_05...
+[2022.05.04-09.25.53:795][530]LogStaticMesh: Built static mesh [0.05s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Common_Tree_05.SM_Common_Tree_05
+[2022.05.04-09.25.54:071][560]LogActorFactory: Actor Factory created SM_Common_Tree_05
+[2022.05.04-09.25.54:542][614]LogActorFactory: Actor Factory created SM_Common_Tree_05
+[2022.05.04-09.25.56:834][882]Cmd: DELETE
+[2022.05.04-09.25.56:834][882]Cmd: ACTOR DELETE
+[2022.05.04-09.25.56:849][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.04-09.25.56:854][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.04-09.25.56:862][882]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.05.04-09.26.00:275][287]LogTexture: Display: Building textures: T_Clover_D (OODLE_AutoDXT, 512X512)
+[2022.05.04-09.26.00:275][287]LogStaticMesh: Building static mesh SM_Clover...
+[2022.05.04-09.26.00:298][287]LogStaticMesh: Built static mesh [0.02s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Clover.SM_Clover
+[2022.05.04-09.26.00:506][307]LogActorFactory: Actor Factory created SM_Clover
+[2022.05.04-09.26.01:440][416]LogActorFactory: Actor Factory created SM_Clover
+[2022.05.04-09.26.03:317][636]Cmd: DELETE
+[2022.05.04-09.26.03:317][636]Cmd: ACTOR DELETE
+[2022.05.04-09.26.03:321][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.04-09.26.03:326][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-09.26.03:328][636]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.05.04-09.26.06:769][ 27]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.05.04-09.26.07:407][ 99]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor5)
+[2022.05.04-09.26.08:394][215]Cmd: DELETE
+[2022.05.04-09.26.08:394][215]Cmd: ACTOR DELETE
+[2022.05.04-09.26.08:398][215]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2022.05.04-09.26.08:404][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.26.08:406][215]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.05.04-09.26.12:565][709]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.05.04-09.26.13:572][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_TwoSided34)
+[2022.05.04-09.26.38:838][706]LogStaticMesh: Building static mesh SM_Fern...
+[2022.05.04-09.26.38:848][706]LogTexture: Display: Building textures: T_Fern_D (OODLE_AutoDXT, 512X512)
+[2022.05.04-09.26.38:860][706]LogStaticMesh: Built static mesh [0.02s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Fern.SM_Fern
+[2022.05.04-09.26.38:915][710]LogActorFactory: Actor Factory created SM_Fern
+[2022.05.04-09.26.41:106][808]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.05.04-09.26.41:132][808]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SM_Fern_FoliageType3EFEF8C849E65D7F62736BBA4860B8D6.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/Stylized_PBR_Nature/Foliage/Assets/SM_Fern_FoliageType.uasset'
+[2022.05.04-09.26.41:142][808]AssetCheck: New page: Asset Save: SM_Fern_FoliageType
+[2022.05.04-09.26.41:142][808]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Fern_FoliageType.SM_Fern_FoliageType
+[2022.05.04-09.26.43:244][ 48]LogStaticMesh: Building static mesh SM_Grass...
+[2022.05.04-09.26.43:258][ 48]LogStaticMesh: Built static mesh [0.01s] /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Grass.SM_Grass
+[2022.05.04-09.26.43:447][ 66]LogActorFactory: Actor Factory created SM_Grass
+[2022.05.04-09.26.45:360][140]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.05.04-09.26.45:390][140]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SM_Grass_FoliageType47D092064DBE5514FE2E80B85DB2E91B.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/Stylized_PBR_Nature/Foliage/Assets/SM_Grass_FoliageType.uasset'
+[2022.05.04-09.26.45:396][140]AssetCheck: New page: Asset Save: SM_Grass_FoliageType
+[2022.05.04-09.26.45:397][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Grass_FoliageType.SM_Grass_FoliageType
+[2022.05.04-09.26.48:578][494]LogActorFactory: Actor Factory created SM_Clover
+[2022.05.04-09.26.50:129][544]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.05.04-09.26.50:154][544]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SM_Clover_FoliageType60A532EC45D31FDE139F8AA79D4495F2.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/Stylized_PBR_Nature/Foliage/Assets/SM_Clover_FoliageType.uasset'
+[2022.05.04-09.26.50:162][544]AssetCheck: New page: Asset Save: SM_Clover_FoliageType
+[2022.05.04-09.26.50:162][544]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Stylized_PBR_Nature/Foliage/Assets/SM_Clover_FoliageType.SM_Clover_FoliageType
+[2022.05.04-09.27.26:778][635]Cmd: TRANSACTION UNDO
+[2022.05.04-09.27.26:778][635]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.27.27:746][708]Cmd: TRANSACTION UNDO
+[2022.05.04-09.27.27:746][708]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.27.30:667][ 54]Cmd: TRANSACTION UNDO
+[2022.05.04-09.27.30:667][ 54]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.27.48:861][ 53]Cmd: TRANSACTION UNDO
+[2022.05.04-09.27.48:862][ 53]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.27.57:523][837]Cmd: TRANSACTION UNDO
+[2022.05.04-09.27.57:523][837]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.28.01:345][146]Cmd: TRANSACTION UNDO
+[2022.05.04-09.28.01:345][146]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.28.06:673][633]Cmd: TRANSACTION UNDO
+[2022.05.04-09.28.06:673][633]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.28.07:552][681]Cmd: TRANSACTION UNDO
+[2022.05.04-09.28.07:552][681]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.28.12:865][264]Cmd: TRANSACTION UNDO
+[2022.05.04-09.28.12:865][264]LogEditorTransaction: Undo Foliage Editing
+[2022.05.04-09.28.26:356][681]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.05.04-09.28.27:831][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-09.28.27:831][825]PIE: New page: PIE session: SideScrollerExampleMap (4 May 2022, 13:28:27)
+[2022.05.04-09.28.27:866][825]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-09.28.27:877][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010797s)
+[2022.05.04-09.28.27:878][825]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.05.04-09.28.27:878][825]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2022.05.04-09.28.27:878][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012366s)
+[2022.05.04-09.28.27:888][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.04-09.28.27:890][825]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-09.28.27:890][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-09.28.27:890][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.04-09.28.27:890][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.04-09.28.27:890][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.04-09.28.27:890][825]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-09.28.27:894][825]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-09.28.27:894][825]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Using Audio Device Speakers (Razer USB Sound Card)
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-09.28.27:906][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-09.28.27:906][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-09.28.27:907][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-09.28.27:907][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-09.28.27:907][825]LogInit: FAudioDevice initialized.
+[2022.05.04-09.28.27:907][825]LogAudio: Display: Audio Device (ID: 14) registered with world 'SideScrollerExampleMap'.
+[2022.05.04-09.28.27:919][825]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.04-09.28.27:990][825]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2022.05.04-11.28.27
+[2022.05.04-09.28.27:991][825]LogWorld: Bringing up level for play took: 0.001485
+[2022.05.04-09.28.27:991][825]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.04-09.28.27:994][825]PIE: Server logged in
+[2022.05.04-09.28.27:995][825]PIE: Play in editor total start time 0,164 seconds.
+[2022.05.04-09.29.05:007][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-09.29.05:007][179]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.05.04-09.29.05:009][179]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-09.29.05:009][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-09.29.05:016][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-09.29.05:024][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-09.29.05:030][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-09.29.05:030][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-09.29.05:031][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-09.29.05:034][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-09.29.05:038][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.05.04-09.29.05:066][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.04-09.29.05:091][182]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.04-09.29.08:097][541]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.04-09.29.08:150][541]LogTexture: Display: Building textures: Grass_01_Brush_02_PIV (RGBA16F, 11X2)
+[2022.05.04-09.29.08:150][541]LogTexture: Display: Building textures: Grass_01_Brush_02_Vec (BGRA8, 11X2)
+[2022.05.04-09.29.08:150][541]LogStaticMesh: Building static mesh grass_01_Brush_02...
+[2022.05.04-09.29.08:165][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_02.grass_01_Brush_02
+[2022.05.04-09.29.08:176][541]LogTexture: Display: Building textures: Grass_01_Brush_03_PIV (RGBA16F, 6X2)
+[2022.05.04-09.29.08:176][541]LogTexture: Display: Building textures: Grass_01_Brush_03_Vec (BGRA8, 6X2)
+[2022.05.04-09.29.08:176][541]LogMeshUtilities: Discarded distance field for grass_01_Brush_02 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.08:176][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 308 triangles, Range [-0.3, 0.9], grass_01_Brush_02
+[2022.05.04-09.29.08:176][541]LogStaticMesh: Building static mesh grass_01_Brush_03...
+[2022.05.04-09.29.08:185][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_03.grass_01_Brush_03
+[2022.05.04-09.29.08:193][541]LogTexture: Display: Building textures: Grass_01_Brush_04_PIV (RGBA16F, 6X5)
+[2022.05.04-09.29.08:193][541]LogTexture: Display: Building textures: Grass_01_Brush_04_Vec (BGRA8, 6X5)
+[2022.05.04-09.29.08:193][541]LogStaticMesh: Building static mesh grass_01_Brush_04...
+[2022.05.04-09.29.08:215][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 168 triangles, Range [-0.0, 0.6], grass_01_Brush_03
+[2022.05.04-09.29.08:215][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_04.grass_01_Brush_04
+[2022.05.04-09.29.08:221][541]LogTexture: Display: Building textures: grass_02_Brush_05_PIV (RGBA16F, 4X2)
+[2022.05.04-09.29.08:221][541]LogTexture: Display: Building textures: grass_02_Brush_05_Vec (BGRA8, 4X2)
+[2022.05.04-09.29.08:221][541]LogStaticMesh: Building static mesh grass_01_Brush_05...
+[2022.05.04-09.29.08:230][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_05.grass_01_Brush_05
+[2022.05.04-09.29.08:238][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 406 triangles, Range [-0.1, 0.7], grass_01_Brush_04
+[2022.05.04-09.29.08:238][541]LogTexture: Display: Building textures: Grass_01_Brush_06_Vec (BGRA8, 13X2)
+[2022.05.04-09.29.08:238][541]LogTexture: Display: Building textures: Grass_01_Brush_06_PIV (RGBA16F, 13X2)
+[2022.05.04-09.29.08:238][541]LogStaticMesh: Building static mesh grass_01_Brush_06...
+[2022.05.04-09.29.08:255][541]LogMeshUtilities: Discarded distance field for grass_01_Brush_05 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.08:256][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 168 triangles, Range [-0.2, 0.5], grass_01_Brush_05
+[2022.05.04-09.29.08:256][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_06.grass_01_Brush_06
+[2022.05.04-09.29.08:261][541]LogTexture: Display: Building textures: grass_02_Brush_01_Vec (BGRA8, 4X2)
+[2022.05.04-09.29.08:261][541]LogTexture: Display: Building textures: grass_02_Brush_01_PIV (RGBA16F, 4X2)
+[2022.05.04-09.29.08:261][541]LogStaticMesh: Building static mesh grass_02_Brush_01...
+[2022.05.04-09.29.08:269][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_01.grass_02_Brush_01
+[2022.05.04-09.29.08:274][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 364 triangles, Range [-0.0, 0.6], grass_01_Brush_06
+[2022.05.04-09.29.08:274][541]LogTexture: Display: Building textures: grass_02_Brush_02_PIV (RGBA16F, 5X3)
+[2022.05.04-09.29.08:274][541]LogTexture: Display: Building textures: grass_02_Brush_02_Vec (BGRA8, 5X3)
+[2022.05.04-09.29.08:274][541]LogStaticMesh: Building static mesh grass_02_Brush_02...
+[2022.05.04-09.29.08:285][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_02.grass_02_Brush_02
+[2022.05.04-09.29.08:291][541]LogTexture: Display: Building textures: grass_02_Brush_03_PIV (RGBA16F, 3X3)
+[2022.05.04-09.29.08:291][541]LogTexture: Display: Building textures: grass_02_Brush_03_Vec (BGRA8, 3X3)
+[2022.05.04-09.29.08:291][541]LogStaticMesh: Building static mesh grass_02_Brush_03...
+[2022.05.04-09.29.08:297][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_03.grass_02_Brush_03
+[2022.05.04-09.29.08:302][541]LogTexture: Display: Building textures: grass_02_Brush_04_PIV (RGBA16F, 5X4)
+[2022.05.04-09.29.08:302][541]LogTexture: Display: Building textures: grass_02_Brush_04_Vec (BGRA8, 5X4)
+[2022.05.04-09.29.08:302][541]LogStaticMesh: Building static mesh grass_02_Brush_04...
+[2022.05.04-09.29.08:314][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_04.grass_02_Brush_04
+[2022.05.04-09.29.08:318][541]LogStaticMesh: Building static mesh grass_02_Brush_05...
+[2022.05.04-09.29.08:325][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_05.grass_02_Brush_05
+[2022.05.04-09.29.08:330][541]LogTexture: Display: Building textures: grass_02_Brush_06_Vec (BGRA8, 9X2)
+[2022.05.04-09.29.08:330][541]LogTexture: Display: Building textures: grass_02_Brush_06_PIV (RGBA16F, 9X2)
+[2022.05.04-09.29.08:330][541]LogStaticMesh: Building static mesh grass_02_Brush_06...
+[2022.05.04-09.29.08:342][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_06.grass_02_Brush_06
+[2022.05.04-09.29.08:348][541]LogTexture: Display: Building textures: grass_03_Brush_01_Vec (BGRA8, 2X2)
+[2022.05.04-09.29.08:348][541]LogTexture: Display: Building textures: grass_03_Brush_01_PIV (RGBA16F, 2X2)
+[2022.05.04-09.29.08:348][541]LogStaticMesh: Building static mesh grass_03_Brush_01...
+[2022.05.04-09.29.08:362][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_01.grass_03_Brush_01
+[2022.05.04-09.29.08:369][541]LogTexture: Display: Building textures: grass_03_Brush_02_PIV (RGBA16F, 4X2)
+[2022.05.04-09.29.08:369][541]LogTexture: Display: Building textures: grass_03_Brush_02_Vec (BGRA8, 4X2)
+[2022.05.04-09.29.08:369][541]LogStaticMesh: Building static mesh grass_03_Brush_02...
+[2022.05.04-09.29.08:394][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_02.grass_03_Brush_02
+[2022.05.04-09.29.08:403][541]LogTexture: Display: Building textures: grass_03_Brush_03_PIV (RGBA16F, 8X2)
+[2022.05.04-09.29.08:403][541]LogTexture: Display: Building textures: grass_03_Brush_03_Vec (BGRA8, 8X2)
+[2022.05.04-09.29.08:403][541]LogStaticMesh: Building static mesh grass_03_Brush_03...
+[2022.05.04-09.29.08:451][541]LogStaticMesh: Built static mesh [0.05s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_03.grass_03_Brush_03
+[2022.05.04-09.29.08:458][541]LogTexture: Display: Building textures: grass_03_Brush_04_Vec (BGRA8, 4X2)
+[2022.05.04-09.29.08:458][541]LogTexture: Display: Building textures: grass_03_Brush_04_PIV (RGBA16F, 4X2)
+[2022.05.04-09.29.08:458][541]LogStaticMesh: Building static mesh grass_03_Brush_04...
+[2022.05.04-09.29.08:480][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_04.grass_03_Brush_04
+[2022.05.04-09.29.08:488][541]LogTexture: Display: Building textures: grass_03_Brush_05_Vec (BGRA8, 5X4)
+[2022.05.04-09.29.08:488][541]LogTexture: Display: Building textures: grass_03_Brush_05_PIV (RGBA16F, 5X4)
+[2022.05.04-09.29.08:488][541]LogStaticMesh: Building static mesh grass_03_Brush_05...
+[2022.05.04-09.29.08:546][541]LogStaticMesh: Built static mesh [0.06s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_05.grass_03_Brush_05
+[2022.05.04-09.29.08:558][541]LogTexture: Display: Building textures: grass_04_Brush_02_PIV (RGBA16F, 7X2)
+[2022.05.04-09.29.08:558][541]LogTexture: Display: Building textures: grass_04_Brush_02_Vec (BGRA8, 7X2)
+[2022.05.04-09.29.08:558][541]LogStaticMesh: Building static mesh grass_04_Brush_02...
+[2022.05.04-09.29.08:683][541]LogStaticMesh: Built static mesh [0.13s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_Brush_02.grass_04_Brush_02
+[2022.05.04-09.29.08:692][541]LogTexture: Display: Building textures: single_PIV (RGBA16F, 1X1)
+[2022.05.04-09.29.08:692][541]LogTexture: Display: Building textures: single_Vec (BGRA8, 1X1)
+[2022.05.04-09.29.08:692][541]LogStaticMesh: Building static mesh grass_04_single_01...
+[2022.05.04-09.29.08:703][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_01.grass_04_single_01
+[2022.05.04-09.29.08:706][541]LogStaticMesh: Building static mesh grass_04_single_02...
+[2022.05.04-09.29.08:714][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_02.grass_04_single_02
+[2022.05.04-09.29.08:718][541]LogStaticMesh: Building static mesh grass_04_single_03...
+[2022.05.04-09.29.08:727][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_03.grass_04_single_03
+[2022.05.04-09.29.08:733][541]LogTexture: Display: Building textures: grass_05_brush_01_PIV (RGBA16F, 3X2)
+[2022.05.04-09.29.08:733][541]LogTexture: Display: Building textures: grass_05_brush_01_Vec (BGRA8, 3X2)
+[2022.05.04-09.29.08:733][541]LogStaticMesh: Building static mesh grass_05_brush_01...
+[2022.05.04-09.29.08:748][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_01.grass_05_brush_01
+[2022.05.04-09.29.08:754][541]LogTexture: Display: Building textures: grass_05_brush_02_Vec (BGRA8, 3X2)
+[2022.05.04-09.29.08:754][541]LogTexture: Display: Building textures: grass_05_brush_02_PIV (RGBA16F, 3X2)
+[2022.05.04-09.29.08:754][541]LogStaticMesh: Building static mesh grass_05_brush_02...
+[2022.05.04-09.29.08:769][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_02.grass_05_brush_02
+[2022.05.04-09.29.08:776][541]LogTexture: Display: Building textures: grass_05_brush_04_PIV (RGBA16F, 6X2)
+[2022.05.04-09.29.08:776][541]LogTexture: Display: Building textures: grass_05_brush_04_Vec (BGRA8, 6X2)
+[2022.05.04-09.29.08:776][541]LogStaticMesh: Building static mesh grass_05_brush_04...
+[2022.05.04-09.29.08:803][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_04.grass_05_brush_04
+[2022.05.04-09.29.08:808][541]LogStaticMesh: Building static mesh grass_05_brush_05...
+[2022.05.04-09.29.08:850][541]LogStaticMesh: Built static mesh [0.04s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_05.grass_05_brush_05
+[2022.05.04-09.29.08:884][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.05.04-09.29.08:884][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.05.04-09.29.08:884][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.05.04-09.29.08:884][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.05.04-09.29.08:885][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.05.04-09.29.08:885][541]LogBlueprint: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2022.05.04-09.29.08:921][541]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.05.04-09.29.08:921][541]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-09.29.08:921][541]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.05.04-09.29.08:977][541]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.05.04-09.29.08:977][541]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.05.04-09.29.08:977][541]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.04-09.29.08:977][541]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.05.04-09.29.08:980][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 37ABE31568B1ED6EDD5A9E6097DF4549E47427AB), compiling. 
+[2022.05.04-09.29.09:031][541]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.04-09.29.09:031][541]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.05.04-09.29.09:041][541]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.05.04-09.29.09:041][541]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 88
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 78
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 58
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2022.05.04-09.29.09:041][541]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.09:044][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 392FB25BA6CEDF416AAB3F8F98A959B59BA9311F), compiling. 
+[2022.05.04-09.29.09:091][541]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.05.04-09.29.09:107][541]LogTexture: Display: Building textures: Grass_01_Brush_05_Vec (BGRA8, 6X2)
+[2022.05.04-09.29.09:107][541]LogTexture: Display: Building textures: Grass_01_Brush_05_PIV (RGBA16F, 6X2)
+[2022.05.04-09.29.09:107][541]LogStaticMesh: Building static mesh grass_01_single_001...
+[2022.05.04-09.29.09:108][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_001.grass_01_single_001
+[2022.05.04-09.29.09:111][541]LogStaticMesh: Building static mesh grass_01_single_002...
+[2022.05.04-09.29.09:113][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_002.grass_01_single_002
+[2022.05.04-09.29.09:115][541]LogStaticMesh: Building static mesh grass_01_single_003...
+[2022.05.04-09.29.09:117][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_003.grass_01_single_003
+[2022.05.04-09.29.09:120][541]LogStaticMesh: Building static mesh grass_01_single_004...
+[2022.05.04-09.29.09:121][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_004.grass_01_single_004
+[2022.05.04-09.29.09:124][541]LogStaticMesh: Building static mesh grass_01_single_005...
+[2022.05.04-09.29.09:126][541]LogMeshUtilities: Discarded distance field for grass_01_single_003 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:126][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_003
+[2022.05.04-09.29.09:126][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_005.grass_01_single_005
+[2022.05.04-09.29.09:131][541]LogStaticMesh: Building static mesh grass_01_single_006...
+[2022.05.04-09.29.09:133][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_006.grass_01_single_006
+[2022.05.04-09.29.09:136][541]LogMeshUtilities: Discarded distance field for grass_01_single_004 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:136][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x10 distance field, 14 triangles, Range [-0.2, 1.0], grass_01_single_004
+[2022.05.04-09.29.09:136][541]LogStaticMesh: Building static mesh grass_02_single_01...
+[2022.05.04-09.29.09:137][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_01.grass_02_single_01
+[2022.05.04-09.29.09:140][541]LogStaticMesh: Building static mesh grass_02_single_02...
+[2022.05.04-09.29.09:142][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_02.grass_02_single_02
+[2022.05.04-09.29.09:145][541]LogMeshUtilities: Discarded distance field for grass_01_single_006 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:145][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_006
+[2022.05.04-09.29.09:145][541]LogStaticMesh: Building static mesh grass_02_single_03...
+[2022.05.04-09.29.09:147][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_03.grass_02_single_03
+[2022.05.04-09.29.09:149][541]LogStaticMesh: Building static mesh grass_02_single_04...
+[2022.05.04-09.29.09:151][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_04.grass_02_single_04
+[2022.05.04-09.29.09:153][541]LogStaticMesh: Building static mesh grass_02_single_05...
+[2022.05.04-09.29.09:155][541]LogMeshUtilities: Discarded distance field for grass_02_single_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:155][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_02_single_01
+[2022.05.04-09.29.09:155][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_05.grass_02_single_05
+[2022.05.04-09.29.09:161][541]LogStaticMesh: Building static mesh grass_02_single_06...
+[2022.05.04-09.29.09:162][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_06.grass_02_single_06
+[2022.05.04-09.29.09:166][541]LogMeshUtilities: Discarded distance field for grass_01_single_005 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:166][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x10 distance field, 14 triangles, Range [-0.2, 1.0], grass_01_single_005
+[2022.05.04-09.29.09:166][541]LogStaticMesh: Building static mesh grass_03_single_01...
+[2022.05.04-09.29.09:174][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_01.grass_03_single_01
+[2022.05.04-09.29.09:177][541]LogMeshUtilities: Discarded distance field for grass_01_single_002 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:177][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_002
+[2022.05.04-09.29.09:177][541]LogStaticMesh: Building static mesh grass_03_single_02...
+[2022.05.04-09.29.09:183][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_02.grass_03_single_02
+[2022.05.04-09.29.09:185][541]LogStaticMesh: Building static mesh grass_03_single_03...
+[2022.05.04-09.29.09:192][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_03.grass_03_single_03
+[2022.05.04-09.29.09:195][541]LogMeshUtilities: Discarded distance field for grass_01_single_001 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.09:195][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_001
+[2022.05.04-09.29.09:195][541]LogStaticMesh: Building static mesh grass_05_single_01...
+[2022.05.04-09.29.09:201][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_01.grass_05_single_01
+[2022.05.04-09.29.09:204][541]LogStaticMesh: Building static mesh grass_05_single_02...
+[2022.05.04-09.29.09:210][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_02.grass_05_single_02
+[2022.05.04-09.29.09:213][541]LogStaticMesh: Building static mesh grass_05_single_03...
+[2022.05.04-09.29.09:219][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_03.grass_05_single_03
+[2022.05.04-09.29.09:229][541]LogObjectTools: Deleting 1 worlds: /Game/PN_LowpolyGras/Map/Showcase_Scene.Showcase_Scene
+[2022.05.04-09.29.09:229][541]LogObjectTools: Currently 12 active worlds: /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap, /Game/SideScrollerBP/Maps/TavernBackgroundLevel.TavernBackgroundLevel, /Game/SideScrollerBP/Maps/TavernForgroundLevel.TavernForgroundLevel, /Game/SideScrollerBP/Maps/BridgeOutside.BridgeOutside, /Game/SideScrollerBP/Maps/TavernPart2.TavernPart2, /Game/SideScrollerBP/Maps/TavernBlockout.TavernBlockout, /Game/SideScrollerBP/Maps/OutsideBackground.OutsideBackground, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4
+[2022.05.04-09.29.09:240][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.04-09.29.11:919][541]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.04-09.29.12:015][541]LogUObjectGlobals: Force Deleting 199 Package(s):
+	Asset Name: /Game/PN_LowpolyGras/FoliageTypes/Grass_05/Grass_05_Brush_03.Grass_05_Brush_03
+	Asset Name: /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_03.grass_05_brush_03
+	Asset Name: /Game/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_03_Mat.Grass_05_Brush_03_Mat
+	Asset Name: /Game/PN_LowpolyGras/Textures/Grass_05/grass_05_brush_03_Vec.grass_05_brush_03_Vec
+	Asset Name: /Game/PN_LowpolyGras/Textures/Grass_05/grass_05_brush_03_PIV.grass_05_brush_03_PIV
+	Asset Name: /Game/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Foilage.darkBrown_Foilage
+	Asset Name: /Game/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Mesh.darkBrown_Mesh
+	Asset Name: /Game/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Mat.darkBrown_Mat
+	Asset Name: /Game/PN_LowpolyGras/FoliageTypes/Grass_04/Grass_04_Brush_01.Grass_04_Brush_01
+	Asset Name: /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_Brush_01.grass_04_Brush_01
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 96
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 76
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2022.05.04-09.29.12:942][541]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.13:266][541]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2022.05.04-09.29.13:266][541]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.13:266][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2022.05.04-09.29.13:266][541]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.13:571][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:574][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:574][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:575][541]LogMaterial: Warning: M_UE4Man_Body: Requesting an invalid TextureIndex! (5 / 1)
+[2022.05.04-09.29.13:578][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:581][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:581][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:585][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:588][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:588][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:591][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:594][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:594][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:597][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:600][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:600][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:602][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:605][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:606][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:608][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:611][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:612][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:614][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:617][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:617][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:621][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:624][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:624][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:627][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:630][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:630][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:633][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:636][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:636][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:638][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:641][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:641][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:644][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:647][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:647][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:650][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:653][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:653][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:655][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:657][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:657][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:657][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:657][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:657][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:657][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:658][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:658][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:658][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:660][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:663][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:663][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:667][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:670][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:670][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:672][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:675][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:675][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:677][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:679][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:679][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:680][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:682][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:684][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:684][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:687][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:689][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:689][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:691][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:693][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:693][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:695][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:698][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:698][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:700][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:703][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:703][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:706][541]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.05.04-09.29.13:708][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\UE4_ThirdPerson\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.05.04-09.29.13:708][541]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.05.04-09.29.13:738][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:739][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:739][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:741][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:742][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:742][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:744][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:746][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:746][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:748][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:749][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:749][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:752][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:753][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:753][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:756][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:757][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:757][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:761][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:762][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:762][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:766][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:767][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:767][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:770][541]LogMaterial: Display: Missing cached shadermap for MA_lowpolyGrass in PCD3D_SM5, Default, SM5 (DDC key hash: F922E01367D8179980DF495E708CB9344A8A2323), compiling. 
+[2022.05.04-09.29.13:771][541]LogMaterial: Warning: [AssetLog] C:\Users\filip.vikstrom\Unreal\LevelDesgin2\LevelDesign2\Content\PN_LowpolyGras\Materials\MA_lowpolyGrass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.04-09.29.13:771][541]LogMaterial: Display: 	Missing Material Function
+[2022.05.04-09.29.13:796][541]LogStaticMesh: Building static mesh darkBrown_Mesh...
+[2022.05.04-09.29.13:815][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Mesh.darkBrown_Mesh
+[2022.05.04-09.29.13:821][541]LogStaticMesh: Building static mesh grass_05_brush_05...
+[2022.05.04-09.29.13:901][541]LogStaticMesh: Built static mesh [0.08s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_05.grass_05_brush_05
+[2022.05.04-09.29.13:906][541]LogStaticMesh: Building static mesh grass_01_Brush_01...
+[2022.05.04-09.29.13:926][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_01.grass_01_Brush_01
+[2022.05.04-09.29.13:932][541]LogStaticMesh: Building static mesh grass_05_brush_02...
+[2022.05.04-09.29.13:958][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 210 triangles, Range [-0.2, 0.7], grass_01_Brush_01
+[2022.05.04-09.29.13:958][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_02.grass_05_brush_02
+[2022.05.04-09.29.13:969][541]LogStaticMesh: Building static mesh grass_05_brush_01...
+[2022.05.04-09.29.13:995][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_01.grass_05_brush_01
+[2022.05.04-09.29.13:998][541]LogStaticMesh: Building static mesh grass_05_brush_04...
+[2022.05.04-09.29.14:048][541]LogStaticMesh: Built static mesh [0.05s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_04.grass_05_brush_04
+[2022.05.04-09.29.14:056][541]LogStaticMesh: Building static mesh grass_05_brush_03...
+[2022.05.04-09.29.14:094][541]LogStaticMesh: Built static mesh [0.04s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_03.grass_05_brush_03
+[2022.05.04-09.29.14:098][541]LogStaticMesh: Building static mesh grass_04_Brush_01...
+[2022.05.04-09.29.14:215][541]LogStaticMesh: Built static mesh [0.12s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_Brush_01.grass_04_Brush_01
+[2022.05.04-09.29.14:226][541]LogStaticMesh: Building static mesh grass_04_single_02...
+[2022.05.04-09.29.14:240][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_02.grass_04_single_02
+[2022.05.04-09.29.14:243][541]LogStaticMesh: Building static mesh grass_04_single_01...
+[2022.05.04-09.29.14:260][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_01.grass_04_single_01
+[2022.05.04-09.29.14:263][541]LogStaticMesh: Building static mesh grass_04_single_03...
+[2022.05.04-09.29.14:279][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_single_03.grass_04_single_03
+[2022.05.04-09.29.14:289][541]LogStaticMesh: Building static mesh grass_04_Brush_02...
+[2022.05.04-09.29.14:442][541]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2022.05.04-09.29.14:442][541]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.14:527][541]LogStaticMesh: Built static mesh [0.24s] /Game/PN_LowpolyGras/Meshes/Grass_04/grass_04_Brush_02.grass_04_Brush_02
+[2022.05.04-09.29.14:540][541]LogStaticMesh: Building static mesh grass_03_Brush_05...
+[2022.05.04-09.29.14:657][541]LogStaticMesh: Built static mesh [0.12s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_05.grass_03_Brush_05
+[2022.05.04-09.29.14:668][541]LogStaticMesh: Building static mesh grass_03_Brush_04...
+[2022.05.04-09.29.14:712][541]LogStaticMesh: Built static mesh [0.04s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_04.grass_03_Brush_04
+[2022.05.04-09.29.14:720][541]LogStaticMesh: Building static mesh grass_03_Brush_03...
+[2022.05.04-09.29.14:810][541]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2022.05.04-09.29.14:810][541]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.14:810][541]LogStaticMesh: Built static mesh [0.09s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_03.grass_03_Brush_03
+[2022.05.04-09.29.14:820][541]LogStaticMesh: Building static mesh grass_03_Brush_02...
+[2022.05.04-09.29.14:870][541]LogStaticMesh: Built static mesh [0.05s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_02.grass_03_Brush_02
+[2022.05.04-09.29.14:880][541]LogStaticMesh: Building static mesh grass_03_Brush_01...
+[2022.05.04-09.29.14:908][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_Brush_01.grass_03_Brush_01
+[2022.05.04-09.29.14:918][541]LogStaticMesh: Building static mesh grass_02_Brush_06...
+[2022.05.04-09.29.14:942][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_06.grass_02_Brush_06
+[2022.05.04-09.29.14:956][541]LogStaticMesh: Building static mesh grass_02_Brush_04...
+[2022.05.04-09.29.14:977][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_04.grass_02_Brush_04
+[2022.05.04-09.29.14:986][541]LogStaticMesh: Building static mesh grass_02_Brush_03...
+[2022.05.04-09.29.14:997][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_03.grass_02_Brush_03
+[2022.05.04-09.29.15:005][541]LogStaticMesh: Building static mesh grass_02_Brush_02...
+[2022.05.04-09.29.15:023][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_02.grass_02_Brush_02
+[2022.05.04-09.29.15:032][541]LogStaticMesh: Building static mesh grass_02_Brush_01...
+[2022.05.04-09.29.15:042][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_01.grass_02_Brush_01
+[2022.05.04-09.29.15:052][541]LogStaticMesh: Building static mesh grass_01_Brush_06...
+[2022.05.04-09.29.15:088][541]LogStaticMesh: Built static mesh [0.04s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_06.grass_01_Brush_06
+[2022.05.04-09.29.15:091][541]LogStaticMesh: Building static mesh grass_01_Brush_05...
+[2022.05.04-09.29.15:105][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_05.grass_01_Brush_05
+[2022.05.04-09.29.15:108][541]LogStaticMesh: Building static mesh grass_02_Brush_05...
+[2022.05.04-09.29.15:120][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 364 triangles, Range [-0.0, 0.6], grass_01_Brush_06
+[2022.05.04-09.29.15:120][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_Brush_05.grass_02_Brush_05
+[2022.05.04-09.29.15:122][541]LogMeshUtilities: Discarded distance field for grass_01_Brush_05 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:122][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 168 triangles, Range [-0.2, 0.5], grass_01_Brush_05
+[2022.05.04-09.29.15:130][541]LogStaticMesh: Building static mesh grass_01_Brush_04...
+[2022.05.04-09.29.15:168][541]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2022.05.04-09.29.15:168][541]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.15:168][541]LogStaticMesh: Built static mesh [0.04s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_04.grass_01_Brush_04
+[2022.05.04-09.29.15:174][541]LogStaticMesh: Building static mesh grass_01_Brush_03...
+[2022.05.04-09.29.15:189][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 406 triangles, Range [-0.1, 0.7], grass_01_Brush_04
+[2022.05.04-09.29.15:189][541]LogStaticMesh: Built static mesh [0.02s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_03.grass_01_Brush_03
+[2022.05.04-09.29.15:196][541]LogStaticMesh: Building static mesh grass_01_Brush_02...
+[2022.05.04-09.29.15:221][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 168 triangles, Range [-0.0, 0.6], grass_01_Brush_03
+[2022.05.04-09.29.15:221][541]LogStaticMesh: Built static mesh [0.03s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_Brush_02.grass_01_Brush_02
+[2022.05.04-09.29.15:235][541]LogMeshUtilities: Discarded distance field for grass_01_Brush_02 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:235][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 308 triangles, Range [-0.3, 0.9], grass_01_Brush_02
+[2022.05.04-09.29.15:240][541]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.05.04-09.29.15:371][541]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.05.04-09.29.15:384][541]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2022.05.04-09.29.15:384][541]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.15:592][541]LogStaticMesh: Building static mesh grass_01_single_001...
+[2022.05.04-09.29.15:594][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_001.grass_01_single_001
+[2022.05.04-09.29.15:596][541]LogStaticMesh: Building static mesh grass_01_single_002...
+[2022.05.04-09.29.15:598][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_002.grass_01_single_002
+[2022.05.04-09.29.15:600][541]LogStaticMesh: Building static mesh grass_01_single_003...
+[2022.05.04-09.29.15:602][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_003.grass_01_single_003
+[2022.05.04-09.29.15:604][541]LogStaticMesh: Building static mesh grass_01_single_004...
+[2022.05.04-09.29.15:606][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_004.grass_01_single_004
+[2022.05.04-09.29.15:607][541]LogStaticMesh: Building static mesh grass_01_single_005...
+[2022.05.04-09.29.15:608][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_005.grass_01_single_005
+[2022.05.04-09.29.15:610][541]LogStaticMesh: Building static mesh grass_01_single_006...
+[2022.05.04-09.29.15:612][541]LogMeshUtilities: Discarded distance field for grass_01_single_003 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:612][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_003
+[2022.05.04-09.29.15:612][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_01/grass_01_single_006.grass_01_single_006
+[2022.05.04-09.29.15:613][541]LogStaticMesh: Building static mesh grass_02_single_01...
+[2022.05.04-09.29.15:614][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_01.grass_02_single_01
+[2022.05.04-09.29.15:615][541]LogStaticMesh: Building static mesh grass_02_single_02...
+[2022.05.04-09.29.15:616][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_02.grass_02_single_02
+[2022.05.04-09.29.15:618][541]LogStaticMesh: Building static mesh grass_02_single_03...
+[2022.05.04-09.29.15:619][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_03.grass_02_single_03
+[2022.05.04-09.29.15:621][541]LogMeshUtilities: Discarded distance field for grass_01_single_005 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:621][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x10 distance field, 14 triangles, Range [-0.2, 1.0], grass_01_single_005
+[2022.05.04-09.29.15:621][541]LogStaticMesh: Building static mesh grass_02_single_04...
+[2022.05.04-09.29.15:623][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_04.grass_02_single_04
+[2022.05.04-09.29.15:624][541]LogStaticMesh: Building static mesh grass_02_single_05...
+[2022.05.04-09.29.15:626][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_05.grass_02_single_05
+[2022.05.04-09.29.15:627][541]LogStaticMesh: Building static mesh grass_02_single_06...
+[2022.05.04-09.29.15:628][541]LogStaticMesh: Built static mesh [0.00s] /Game/PN_LowpolyGras/Meshes/Grass_02/grass_02_single_06.grass_02_single_06
+[2022.05.04-09.29.15:630][541]LogStaticMesh: Building static mesh grass_03_single_01...
+[2022.05.04-09.29.15:641][541]LogMeshUtilities: Discarded distance field for grass_02_single_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:641][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_02_single_01
+[2022.05.04-09.29.15:641][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_01.grass_03_single_01
+[2022.05.04-09.29.15:642][541]LogStaticMesh: Building static mesh grass_03_single_02...
+[2022.05.04-09.29.15:649][541]LogMeshUtilities: Discarded distance field for grass_01_single_006 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:649][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_006
+[2022.05.04-09.29.15:649][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_02.grass_03_single_02
+[2022.05.04-09.29.15:651][541]LogStaticMesh: Building static mesh grass_03_single_03...
+[2022.05.04-09.29.15:657][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_03/grass_03_single_03.grass_03_single_03
+[2022.05.04-09.29.15:659][541]LogMeshUtilities: Discarded distance field for grass_01_single_004 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:659][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x10 distance field, 14 triangles, Range [-0.2, 1.0], grass_01_single_004
+[2022.05.04-09.29.15:660][541]LogStaticMesh: Building static mesh grass_05_single_01...
+[2022.05.04-09.29.15:666][541]LogMeshUtilities: Discarded distance field for grass_01_single_002 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:670][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_002
+[2022.05.04-09.29.15:670][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_01.grass_05_single_01
+[2022.05.04-09.29.15:672][541]LogStaticMesh: Building static mesh grass_05_single_02...
+[2022.05.04-09.29.15:679][541]LogMeshUtilities: Discarded distance field for grass_01_single_001 as mesh was not closed!  Assign a two-sided material to fix.
+[2022.05.04-09.29.15:679][541]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 14 triangles, Range [-0.3, 1.0], grass_01_single_001
+[2022.05.04-09.29.15:679][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_02.grass_05_single_02
+[2022.05.04-09.29.15:681][541]LogStaticMesh: Building static mesh grass_05_single_03...
+[2022.05.04-09.29.15:688][541]LogStaticMesh: Built static mesh [0.01s] /Game/PN_LowpolyGras/Meshes/Grass_05/grass_05_single_03.grass_05_single_03
+[2022.05.04-09.29.15:723][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.04-09.29.15:988][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.05.04-09.29.15:988][541]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.15:996][541]LogWorld: UWorld::CleanupWorld for Showcase_Scene, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-09.29.15:997][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-09.29.16:111][541]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.05.04-09.29.16:111][541]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:111][541]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2022.05.04-09.29.16:511][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.05.04-09.29.16:799][541]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.04-09.29.21:375][541]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.04-09.29.21:438][541]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.063 s
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: 
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3143]
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: 
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: Stack: 
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdce38e819 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcdc5520b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcd39b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcd680dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcd677e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9c5a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9c7280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9ac421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b3e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b27097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b19b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584dc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584c92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584de465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584c4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6d18e7e8 USER32.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6d18e229 USER32.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584dfb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b4865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9ae6b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcd713e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdcdc48de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdb5a3c618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffda1412d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffda1412f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffda14023a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdb6471af3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdb646af42 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdb64eb6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdb646ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9c5a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9c7280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9ac421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b3e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b27097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffdf9b19b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584dc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584c92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584de465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584c4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6d18e7e8 USER32.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6d18e229 USER32.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe584dfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb27621 UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb40fcc UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb410ba UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb440dd UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb55984 UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ff67cb5853a UE4Editor.exe!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6ecc7034 KERNEL32.DLL!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: [Callstack] 0x00007ffe6efe2651 ntdll.dll!UnknownFunction []
+[2022.05.04-09.29.21:438][541]LogOutputDevice: Error: 
+[2022.05.04-09.29.21:448][541]LogStats:                SubmitErrorReport -  0.000 s
+[2022.05.04-09.29.22:567][541]LogStats:                    SendNewReport -  1.119 s
+[2022.05.04-09.29.22:567][541]LogStats:             FDebug::EnsureFailed -  1.192 s
+[2022.05.04-09.29.31:458][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.05.04-09.29.31:464][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-09.29.31:469][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:472][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:476][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.04-09.29.31:480][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:484][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:488][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:492][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:496][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-09.29.31:500][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:505][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.04-09.29.31:510][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-09.29.31:514][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:519][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:523][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:527][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:531][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:536][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.05.04-09.29.31:540][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:544][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:549][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:553][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:557][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:565][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:569][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.04-09.29.31:573][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:578][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:582][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-09.29.31:586][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:590][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:594][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:598][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:601][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:605][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:609][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:612][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:616][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:619][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:623][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:626][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-09.29.31:631][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:634][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:639][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:643][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:646][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:650][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:654][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:658][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:661][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:665][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:668][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.31:672][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:676][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:679][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:683][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:687][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:690][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:694][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:697][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:701][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-09.29.31:704][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:708][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.31:712][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:715][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:719][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:723][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:727][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:731][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:735][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:739][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.04-09.29.31:743][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:747][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.04-09.29.31:751][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.04-09.29.31:755][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:759][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:767][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:771][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:775][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-09.29.31:779][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:782][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:786][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:790][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:794][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:797][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:801][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-09.29.31:805][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-09.29.31:810][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:814][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:816][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:820][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:824][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:828][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:832][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:835][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:839][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:843][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:847][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:850][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:854][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:858][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.31:861][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:865][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:869][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:872][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:875][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:878][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:882][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:887][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:890][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:894][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:897][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:901][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.05.04-09.29.31:905][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:910][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:913][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:917][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.31:921][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.31:925][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:928][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:932][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:937][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.04-09.29.31:940][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:943][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:947][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.04-09.29.31:951][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:954][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:958][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:962][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:966][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:969][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:973][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:977][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.31:981][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:984][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:988][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.31:992][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:995][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.31:999][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:003][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:007][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:011][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:015][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.32:018][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:022][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:025][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:029][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.32:033][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:037][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.32:040][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.32:044][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:048][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:052][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:055][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:059][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:063][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:066][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:070][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.32:074][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:078][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:081][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:085][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:088][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:092][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:095][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:099][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:102][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:106][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:109][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:113][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:116][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.32:120][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:124][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.32:127][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:131][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.32:135][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.04-09.29.32:138][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:142][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:146][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:150][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:154][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:158][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:161][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.04-09.29.32:165][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:181][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:184][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:189][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:193][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:196][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:200][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:204][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:207][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:211][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:214][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.32:219][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.04-09.29.32:222][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:226][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:231][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.04-09.29.32:236][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.04-09.29.32:241][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.32:361][541]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.04-09.29.32:361][541]LogShaderCompilers: Display: Total job queries 1409, among them cache hits 833 (59.12%)
+[2022.05.04-09.29.32:361][541]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 357 distinct outputs (77.27%)
+[2022.05.04-09.29.32:361][541]LogShaderCompilers: Display: RAM used: 1.99 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.05.04-09.29.32:361][541]LogShaderCompilers: Display: ================================================
+[2022.05.04-09.29.48:456][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.04-09.29.48:481][416]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/OutsideBackgroundE14F745E4308668B3CA33F9EEE419A11.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/OutsideBackground.umap'
+[2022.05.04-09.29.48:491][416]AssetCheck: New page: Asset Save: OutsideBackground
+[2022.05.04-09.29.48:491][416]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/OutsideBackground.OutsideBackground
+[2022.05.04-09.29.49:517][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-09.29.50:578][536]LogSlate: Window 'Save Content' being destroyed
+[2022.05.04-09.29.50:606][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.50:757][536]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/BridgeOutside5A7495D444FB676943691DB7FBE2B1E9.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/BridgeOutside.umap'
+[2022.05.04-09.29.50:758][536]LogFileHelpers: Saving map 'BridgeOutside' took 0.157
+[2022.05.04-09.29.50:763][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.04-09.29.50:788][536]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/SideScrollerExampleMapD02B687C4BF5A080DEC98EA9B0EC5555.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.05.04-09.29.50:793][536]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.034
+[2022.05.04-09.29.50:797][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.04-09.29.50:821][536]LogSavePackage: Moving '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Saved/TavernPart241C454CC49BC055C1088FC9B18EB72C3.tmp' to '../../../../../../Users/filip.vikstrom/Unreal/LevelDesgin2/LevelDesign2/Content/SideScrollerBP/Maps/TavernPart2.umap'
+[2022.05.04-09.29.50:822][536]LogFileHelpers: Saving map 'TavernPart2' took 0.030
+[2022.05.04-09.29.50:831][536]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-09.29.50:831][536]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/TavernPart2.TavernPart2
+[2022.05.04-09.29.50:831][536]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/BridgeOutside.BridgeOutside
+[2022.05.04-09.29.50:831][536]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
